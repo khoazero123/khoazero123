@@ -1,6 +1,6 @@
 ###  Hi, I’m Khoa Vo!
 
-I'm a web developer and a DevOps.
+I'm a backend developer (PHP & Nodejs) and a DevOps.
 I'm learning every day to become a better version of myself. I'm especially interested in sharing knowledge and love to hear from everyone, not only in technical but everything.
 
 ## 🛠 Tools & Technologies
@@ -11,14 +11,22 @@ _(Please click to scroll down)_
     <summary><b>Frontend</b></summary>
     <p></p>
     <ul>
-        <li>HTML, CSS(Bootstrap)</li>
+        <li>HTML, CSS, Bootstrap</li>
     </ul>
     <ul>
-        <li>JavaScript</li>
+        <li>JavaScript frameworks</li>
         <ul>
-            <li>Jquery</li>
-            <li>VueJs</li>
+            <li>jQuery</li>
+            <li>VueJs - NuxtJS</li>
             <li>ReactJS</li>
+            <li>Ant Design</li>
+        </ul>
+    </ul>
+    <ul>
+        <li>NodeJS</li>
+        <ul>
+            <li>NestJS</li>
+            <li>Strapi</li>
         </ul>
     </ul>
 </details>
@@ -35,7 +43,7 @@ _(Please click to scroll down)_
                 Frameworks: Laravel, Yii, CakePHP
             </li>
             <li>
-                Cms: Wordpress, Joomla, Magento, Prestashop
+                Cms: Wordpress, Joomla, Magento 1 & 2, Prestashop
             </li>
         </ul>
     </ul>
@@ -44,6 +52,30 @@ _(Please click to scroll down)_
         <ul>
             <li>
                 MySQL, MariaDB, PostgresSQL, MongoDB, Redis
+            </li>
+        </ul>
+        </li>
+    </ul>
+</details>
+
+<hr>
+
+<details>
+    <summary><b>DevOps</b></summary>
+    <p></p>
+    <ul>
+        <li>Docker</li>
+        <ul>
+            <li>
+                Portainer, Traefik
+            </li>
+        </ul>
+    </ul>
+    <ul>
+        <li>CI/CD
+        <ul>
+            <li>
+                Gitlab-CI, Github Actions, Jenkins, Drone.io
             </li>
         </ul>
         </li>
@@ -86,6 +118,7 @@ _(Please click to scroll down)_
 ### ✨ Interested - Learning Plans
 
 ![Next.js](https://img.shields.io/badge/Next.js-001a33?style=flat&logo=Next.js)&nbsp;
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-001a33?style=flat&logo=Nuxt.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-001a33?style=flat&logo=Node.js)&nbsp;
 ![Python](https://img.shields.io/badge/Python-001a33?style=flat&logo=Python)&nbsp;
 
