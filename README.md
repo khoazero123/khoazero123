@@ -124,7 +124,7 @@ _(Please click to scroll down)_
 
 ## ☎ Contact me
 
-Email: khoazero123@gmail.com
+Email: khoazero123@live.com
 
 ## ***📊 GitHub Profile Stats***
 
