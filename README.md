@@ -1,48 +1,48 @@
-### Xin chào, tôi là Khoa Võ
+### Hello, I'm Khoa Vo
 
 [English](README_EN.md) · [Tiếng Việt](README.md)
 
-Tôi là lập trình viên Backend kiêm DevOps, chuyên về PHP, Node.js, Docker và hệ thống Linux. Tôi cũng làm việc tốt với ReactJS, Vue.js/Nuxt.js, Python và có kinh nghiệm sâu rộng trong triển khai Odoo Enterprise, WordPress/WooCommerce, Magento, tự động hóa với n8n và hạ tầng on‑premise/cloud.
+I'm a Backend engineer and DevOps specialist focused on PHP, Node.js, Docker, and Linux systems. I also work effectively with ReactJS, Vue.js/Nuxt.js, and Python, with extensive experience delivering Odoo Enterprise, WordPress/WooCommerce, Magento, workflow automation with n8n, and both on‑premise and cloud infrastructure.
 
-## Tôi có thể giúp gì cho bạn?
+## What I can help you with
 
-- **Phát triển Backend**: Thiết kế API và dịch vụ bằng PHP (Laravel, Yii, CakePHP) và Node.js (NestJS, Strapi); tối ưu hiệu năng và bảo mật.
-- **Odoo Enterprise 16/17/18**: Tư vấn – triển khai – tùy biến; phát triển addon/module; tích hợp thanh toán, vận chuyển, kế toán; đồng bộ với hệ thống hiện hữu.
-- **WordPress/WooCommerce**: Phát triển plugin, đặc biệt cổng thanh toán thị trường Úc (SecurePay, NAB, Stripe, PayWay, Bpoint, ArtsPay, ...); tối ưu tốc độ, bảo mật, SEO kỹ thuật; tích hợp bên thứ ba.
-- **Magento 1/2**: Phát triển module, tích hợp thanh toán/vận chuyển; tối ưu kiến trúc và hiệu năng.
-- **DevOps & Hạ tầng**: Docker, Portainer, Traefik; CI/CD (GitHub Actions, GitLab CI, Jenkins, Drone.io); cài đặt và cấu hình Linux server, proxy, cân bằng tải, HA, backup, giám sát.
-- **Cloud & On‑premise**: AWS (EC2, S3), DigitalOcean, Vultr; vận hành máy chủ DELL (R730XD, R640), cấu hình RAID, UPS; giải pháp lưu trữ với Synology; ảo hoá với Proxmox.
-- **IoT & Smart Home**: Home Assistant, Zigbee, Raspberry Pi; thiết kế hệ thống tự động hóa cục bộ, không phụ thuộc dịch vụ bên thứ ba.
-- **Tích hợp & Tự động hóa với n8n**: Xây dựng workflow phức tạp, tích hợp đa hệ; giám sát và tối ưu quy trình nghiệp vụ.
+- **Backend Development**: Design APIs and services using PHP (Laravel, Yii, CakePHP) and Node.js (NestJS, Strapi); performance optimization, scalability, and security hardening.
+- **Odoo Enterprise 16/17/18**: Consulting, implementation, customization; addon/module development; integrations for payments, shipping, accounting; synchronization with existing systems.
+- **WordPress/WooCommerce**: Plugin development—especially AU payment gateways (SecurePay, NAB, Stripe, PayWay, Bpoint, ArtsPay, ...); performance tuning, security, technical SEO; third‑party integrations.
+- **Magento 1/2**: Module development, payment/shipping integrations, architectural and performance optimization.
+- **DevOps & Infrastructure**: Docker, Portainer, Traefik; CI/CD (GitHub Actions, GitLab CI, Jenkins, Drone.io); Linux servers, proxies, load balancing, high availability, backup, and monitoring.
+- **Cloud & On‑premise**: AWS (EC2, S3), DigitalOcean, Vultr; DELL enterprise servers (R730XD, R640), RAID, UPS; Synology storage; virtualization with Proxmox.
+- **IoT & Smart Home**: Home Assistant, Zigbee, Raspberry Pi; local‑first automation without third‑party dependency.
+- **Integration & Automation with n8n**: Complex workflows, multi‑system integrations, observability, and process optimization.
 
-## Kỹ năng & Công nghệ
+## Skills & Technologies
 
-- **Ngôn ngữ**: PHP, Node.js, Python, JavaScript
-- **Framework/Platform**: Laravel, Yii, CakePHP, NestJS, Strapi, ReactJS, Vue.js/Nuxt.js
-- **Cơ sở dữ liệu**: MySQL, MariaDB, PostgreSQL, MongoDB, Redis
-- **Hệ thống & Web**: Linux (Ubuntu), NGINX, Apache, Proxmox
-- **DevOps**: Docker, Portainer, Traefik; CI/CD với GitHub Actions, GitLab CI, Jenkins, Drone.io
-- **Công cụ**: Git/GitHub, GitLab, Composer
-- **Cloud/Hosting**: AWS, DigitalOcean, Vultr; lưu trữ NAS với Synology
+- **Languages**: PHP, Node.js, Python, JavaScript
+- **Frameworks/Platforms**: Laravel, Yii, CakePHP, NestJS, Strapi, ReactJS, Vue.js/Nuxt.js
+- **Databases**: MySQL, MariaDB, PostgreSQL, MongoDB, Redis
+- **Systems & Web**: Linux (Ubuntu), NGINX, Apache, Proxmox
+- **DevOps**: Docker, Portainer, Traefik; CI/CD with GitHub Actions, GitLab CI, Jenkins, Drone.io
+- **Tools**: Git/GitHub, GitLab, Composer
+- **Cloud/Hosting**: AWS, DigitalOcean, Vultr; Synology NAS
 
-## Kinh nghiệm tiêu biểu
+## Representative Experience
 
-- Triển khai Odoo Enterprise (16/17/18): phân tích quy trình, tùy biến module, phát triển addon, tích hợp hệ thống.
-- Phát triển nhiều plugin thanh toán WooCommerce cho thị trường Úc: SecurePay, NAB, Stripe, PayWay, Bpoint, ArtsPay, ...
-- Xây dựng và bảo trì module cho Magento 1 và Magento 2.
-- Thiết kế – cài đặt – vận hành hạ tầng Linux server, proxy, cân bằng tải; triển khai trên AWS, DigitalOcean, Vultr.
-- Vận hành máy chủ DELL on‑premise (R730XD, R640), cấu hình RAID, UPS; giải pháp lưu trữ với Synology.
-- Xây dựng hệ thống tự động hóa nội bộ với Home Assistant và n8n.
+- Implemented Odoo Enterprise (16/17/18) for businesses: process analysis, module customization, addon development, and system integrations.
+- Built numerous WooCommerce payment plugins for the Australian market: SecurePay, NAB, Stripe, PayWay, Bpoint, ArtsPay, ...
+- Developed and maintained modules for Magento 1 and Magento 2.
+- Designed and operated Linux server infrastructure, proxies, and load balancers; deployments on AWS, DigitalOcean, and Vultr.
+- Operated on‑prem DELL servers (R730XD, R640), configured RAID and UPS; storage solutions with Synology.
+- Delivered internal automation with Home Assistant and n8n.
 
-## Quy trình làm việc
+## Working Process
 
-1. Thu thập yêu cầu và tư vấn giải pháp.
-2. Lập kế hoạch và ước lượng thời gian/chi phí; thống nhất phạm vi.
-3. Triển khai theo sprint, cập nhật tiến độ minh bạch.
-4. Kiểm thử, bàn giao tài liệu và hướng dẫn vận hành.
-5. Hỗ trợ sau triển khai, bảo trì và mở rộng khi cần.
+1. Requirements discovery and solution consulting.
+2. Planning and time/cost estimation; scope alignment.
+3. Sprint‑based implementation with transparent progress updates.
+4. Testing, documentation handover, and operations training.
+5. Post‑delivery support, maintenance, and scaling.
 
-## 📊 Thống kê GitHub
+## GitHub Profile Stats
 
 <p align="center">
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khoazero123&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
@@ -54,10 +54,10 @@ Tôi là lập trình viên Backend kiêm DevOps, chuyên về PHP, Node.js, Doc
   <img src="https://github-profile-trophy.vercel.app/?username=khoazero123&theme=onedark"/>
 </p>
 
-## Liên hệ
+## Contact
 
 - **Email**: khoazero123@gmail.com
-- Sẵn sàng hợp tác theo mô hình freelance, dự án trọn gói hoặc theo giờ.
+- Open to freelance, fixed‑scope projects, or hourly engagements.
 
 <p align="left">
   <a href="mailto:khoazero123@gmail.com">
