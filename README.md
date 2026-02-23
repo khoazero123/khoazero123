@@ -33,7 +33,7 @@
 I am an adaptable and results-driven engineer, leveraging a deep technical stack to build robust, scalable systems:
 
 **Backend & API Development**
-- **Capabilities**: Designing RESTful and GraphQL APIs and microservices architectures; optimizing performance, ensuring high scalability, and implementing security best practices.
+- **Capabilities**: Designing RESTful and GraphQL APIs, real-time communications via **Websocket**, and microservices architectures; optimizing performance, ensuring high scalability, and implementing security best practices.
 - **Tech Stack**: PHP (Laravel, CodeIgniter, Symfony, CakePHP, Yii), Node.js (NestJS, ExpressJS, Strapi, Koa), Python.
 - **Databases**: MySQL, MariaDB, PostgreSQL, MongoDB, SQLite, Redis, Memcached.
 
@@ -65,7 +65,7 @@ I am an adaptable and results-driven engineer, leveraging a deep technical stack
 ### 🎓 Education
 
 **FPT Polytechnic College of Ha Noi** | `2013 - 2016`
-- **Major**: Business Information Technology
+- **Major**: [Software Applications](https://caodang.fpt.edu.vn/nganh-hoc/ung-dung-phan-mem)
 - **Degree Classification**: Very Good
 
 ---

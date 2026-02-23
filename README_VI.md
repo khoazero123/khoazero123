@@ -19,7 +19,7 @@
 - Xây dựng và tùy chỉnh các plugin/extension cho hệ thống WordPress và Magento.
 - Tích hợp giao diện Frontend và xây dựng ứng dụng di động đa nền tảng bằng React Native.
 - Tự cấu hình, cài đặt và vận hành các máy chủ web CentOS/Ubuntu trên môi trường Virtual Private Servers.
-- Tích cực đào tạo, quản lý và định hướng chuyên môn cho các thực tập sinh phần mềm.
+- Đào tạo, quản lý và định hướng chuyên môn cho các thực tập sinh phần mềm.
 
 **Backend Developer** | *NTQ Solution (Hà Nội, Việt Nam)* | `09/2020 - 02/2021`
 - Bảo trì hệ sinh thái ứng dụng chat sử dụng framework Rocket.Chat, bao gồm build app trên macOS, Windows và ứng dụng di động.
@@ -33,7 +33,7 @@
 Tôi là một kỹ sư phần mềm luôn hướng đến kết quả và khả năng thích ứng cao, tận dụng nền tảng công nghệ chuyên sâu để xây dựng các hệ thống mạnh mẽ và dễ dàng mở rộng:
 
 **Phát triển Backend & Server-side API**
-- **Năng lực (Capabilities)**: Thiết kế và triển khai kiến trúc API RESTful và GraphQL cùng Microservices; tối ưu hóa hiệu suất, đảm bảo khả năng chịu tải (high scalability), và áp dụng các tiêu chuẩn bảo mật khắt khe.
+- **Năng lực (Capabilities)**: Thiết kế và triển khai kiến trúc API RESTful, GraphQL, giao tiếp thời gian thực qua **Websocket** cùng Microservices; tối ưu hóa hiệu suất, đảm bảo khả năng chịu tải (high scalability), và áp dụng các tiêu chuẩn bảo mật khắt khe.
 - **Công nghệ (Tech Stack)**: PHP (Laravel, CodeIgniter, Symfony, CakePHP, Yii), Node.js (NestJS, ExpressJS, Strapi, Koa), Python.
 - **Hệ cơ sở dữ liệu**: MySQL, MariaDB, PostgreSQL, MongoDB, SQLite, Redis, Memcached.
 
@@ -65,7 +65,7 @@ Tôi là một kỹ sư phần mềm luôn hướng đến kết quả và khả
 ### 🎓 Học Vấn
 
 **Cao đẳng Thực hành FPT Polytechnic Hà Nội** | `2013 - 2016`
-- **Chuyên ngành**: Ứng dụng CNTT trong doanh nghiệp.
+- **Chuyên ngành**: [Ứng dụng phần mềm](https://caodang.fpt.edu.vn/nganh-hoc/ung-dung-phan-mem).
 - **Xếp loại tốt nghiệp**: Rất Tốt.
 
 ---
