@@ -1,48 +1,76 @@
-### Xin chào, tôi là Khoa Võ
+<h1 align="center">Xin chào, mình là Khoa Võ 👋</h1>
 
-[English](README_EN.md) · [Tiếng Việt](README.md)
+<h3 align="center">Chuyên gia Backend & DevOps (Senior Backend Engineer)</h3>
 
-Tôi là lập trình viên Backend kiêm DevOps, chuyên về PHP, Node.js, Docker và hệ thống Linux. Tôi cũng làm việc tốt với ReactJS, Vue.js/Nuxt.js, Python và có kinh nghiệm sâu rộng trong triển khai Odoo Enterprise, WordPress/WooCommerce, Magento, tự động hóa với n8n và hạ tầng on‑premise/cloud.
+<p align="center">
+  <a href="README.md">English</a> · <a href="README_VI.md">Tiếng Việt</a>
+</p>
 
-## Tôi có thể giúp gì cho bạn?
+<p align="center">
+  <i>Kỹ sư Backend (Senior Backend Engineer) với nền tảng vững chắc trong việc thiết kế các hệ thống có khả năng chịu tải cao. Sở trường cốt lõi tập trung vào <b>PHP / Node.js</b>, quản trị máy chủ <b>Linux</b> chuyên sâu, triển khai hạ tầng ảo hóa với <b>Docker</b>, tự động hóa quy trình phức tạp thông qua <b>n8n</b>, và xây dựng các trợ lý ảo <b>AI Chatbots</b> thông minh. Đam mê tận dụng bộ kỹ năng cốt lõi này để phát triển và vận hành các sản phẩm công nghệ đột phá từ con số không.</i>
+</p>
 
-- **Phát triển Backend**: Thiết kế API và dịch vụ bằng PHP (Laravel, Yii, CakePHP) và Node.js (NestJS, Strapi); tối ưu hiệu năng và bảo mật.
-- **Odoo Enterprise 16/17/18**: Tư vấn – triển khai – tùy biến; phát triển addon/module; tích hợp thanh toán, vận chuyển, kế toán; đồng bộ với hệ thống hiện hữu.
-- **WordPress/WooCommerce**: Phát triển plugin, đặc biệt cổng thanh toán thị trường Úc (SecurePay, NAB, Stripe, PayWay, Bpoint, ArtsPay, ...); tối ưu tốc độ, bảo mật, SEO kỹ thuật; tích hợp bên thứ ba.
-- **Magento 1/2**: Phát triển module, tích hợp thanh toán/vận chuyển; tối ưu kiến trúc và hiệu năng.
-- **DevOps & Hạ tầng**: Docker, Portainer, Traefik; CI/CD (GitHub Actions, GitLab CI, Jenkins, Drone.io); cài đặt và cấu hình Linux server, proxy, cân bằng tải, HA, backup, giám sát.
-- **Cloud & On‑premise**: AWS (EC2, S3), DigitalOcean, Vultr; vận hành máy chủ DELL (R730XD, R640), cấu hình RAID, UPS; giải pháp lưu trữ với Synology; ảo hoá với Proxmox.
-- **IoT & Smart Home**: Home Assistant, Zigbee, Raspberry Pi; thiết kế hệ thống tự động hóa cục bộ, không phụ thuộc dịch vụ bên thứ ba.
-- **Tích hợp & Tự động hóa với n8n**: Xây dựng workflow phức tạp, tích hợp đa hệ; giám sát và tối ưu quy trình nghiệp vụ.
+---
 
-## Kỹ năng & Công nghệ
+### 💼 Kinh Nghiệm Làm Việc
 
-- **Ngôn ngữ**: PHP, Node.js, Python, JavaScript
-- **Framework/Platform**: Laravel, Yii, CakePHP, NestJS, Strapi, ReactJS, Vue.js/Nuxt.js
-- **Cơ sở dữ liệu**: MySQL, MariaDB, PostgreSQL, MongoDB, Redis
-- **Hệ thống & Web**: Linux (Ubuntu), NGINX, Apache, Proxmox
-- **DevOps**: Docker, Portainer, Traefik; CI/CD với GitHub Actions, GitLab CI, Jenkins, Drone.io
-- **Công cụ**: Git/GitHub, GitLab, Composer
-- **Cloud/Hosting**: AWS, DigitalOcean, Vultr; lưu trữ NAS với Synology
+**Web Developer** | *FGC Techlution (Vinh, Nghệ An, Việt Nam)* | `02/2021 - Present` *và* `05/2017 - 07/2020`
+- Phát triển và bảo trì các ứng dụng web với khả năng mở rộng cao sử dụng PHP (Laravel, WordPress, Magento 1 & 2).
+- Xây dựng và tùy chỉnh các plugin/extension cho hệ thống WordPress và Magento.
+- Tích hợp giao diện Frontend và xây dựng ứng dụng di động đa nền tảng bằng React Native.
+- Tự cấu hình, cài đặt và vận hành các máy chủ web CentOS/Ubuntu trên môi trường Virtual Private Servers.
+- Tích cực đào tạo, quản lý và định hướng chuyên môn cho các thực tập sinh phần mềm.
 
-## Kinh nghiệm tiêu biểu
+**Backend Developer** | *NTQ Solution (Hà Nội, Việt Nam)* | `09/2020 - 02/2021`
+- Bảo trì hệ sinh thái ứng dụng chat sử dụng framework Rocket.Chat, bao gồm build app trên macOS, Windows và ứng dụng di động.
+- Phát triển các chức năng tùy chỉnh (custom functions) và mở rộng kiến trúc cho Rocket.Chat.
+- Phụ trách hỗ trợ, đào tạo và định hướng cho các Junior Developers - Interns làm quen với các standard tốt nhất.
 
-- Triển khai Odoo Enterprise (16/17/18): phân tích quy trình, tùy biến module, phát triển addon, tích hợp hệ thống.
-- Phát triển nhiều plugin thanh toán WooCommerce cho thị trường Úc: SecurePay, NAB, Stripe, PayWay, Bpoint, ArtsPay, ...
-- Xây dựng và bảo trì module cho Magento 1 và Magento 2.
-- Thiết kế – cài đặt – vận hành hạ tầng Linux server, proxy, cân bằng tải; triển khai trên AWS, DigitalOcean, Vultr.
-- Vận hành máy chủ DELL on‑premise (R730XD, R640), cấu hình RAID, UPS; giải pháp lưu trữ với Synology.
-- Xây dựng hệ thống tự động hóa nội bộ với Home Assistant và n8n.
+---
 
-## Quy trình làm việc
+### 🛠️ Kỹ Năng & Công Nghệ (Skills & Tech Stack)
 
-1. Thu thập yêu cầu và tư vấn giải pháp.
-2. Lập kế hoạch và ước lượng thời gian/chi phí; thống nhất phạm vi.
-3. Triển khai theo sprint, cập nhật tiến độ minh bạch.
-4. Kiểm thử, bàn giao tài liệu và hướng dẫn vận hành.
-5. Hỗ trợ sau triển khai, bảo trì và mở rộng khi cần.
+Tôi là một kỹ sư phần mềm luôn hướng đến kết quả và khả năng thích ứng cao, tận dụng nền tảng công nghệ chuyên sâu để xây dựng các hệ thống mạnh mẽ và dễ dàng mở rộng:
 
-## 📊 Thống kê GitHub
+**Phát triển Backend & Server-side API**
+- **Năng lực (Capabilities)**: Thiết kế và triển khai kiến trúc API RESTful cùng Microservices; tối ưu hóa hiệu suất, đảm bảo khả năng chịu tải (high scalability), và áp dụng các tiêu chuẩn bảo mật khắt khe.
+- **Công nghệ (Tech Stack)**: PHP (Laravel, CodeIgniter, Symfony, CakePHP, Yii), Node.js (NestJS, ExpressJS, Strapi, Koa), Python.
+- **Hệ cơ sở dữ liệu**: MySQL, MariaDB, PostgreSQL, MongoDB, SQLite, Redis, Memcached.
+
+**CMS, E-commerce & Odoo Enterprise**
+- **Năng lực (Capabilities)**: Triển khai và phát triển addon hệ thống Odoo cấp doanh nghiệp. Xây dựng Plugin WordPress/WooCommerce tùy chỉnh (chuyên gia về các giải pháp tích hợp cổng thanh toán và logic vận chuyển hàng hóa). Phát triển module hệ thống Magento 1 & 2.
+- **Công nghệ (Tech Stack)**: Odoo (16/17/18), WordPress / WooCommerce, Magento 1 & 2, Strapi, Mautic.
+
+**DevOps, Quản trị hệ thống & Mạng (Networking)**
+- **Năng lực (Capabilities)**: Quản lý hạ tầng máy chủ vật lý (on-premise) và đám mây (Cloud). Đảm nhận việc cung cấp (provisioning) máy chủ, thiết lập Proxy, Cân bằng tải (Load Balancing), tự động hóa các CI/CD pipeline, và quản lý định tuyến tầng mạng lưới (network routing).
+- **Đám mây & Phân phối toàn cầu (Cloud/CDN)**: AWS (EC2, S3), DigitalOcean, Vultr, nền tảng Cloudflare (Cache Rules, Workers, Tunnels).
+- **Phần cứng & Mạng máy tính**: Hệ thống Máy chủ DELL Doanh Nghiệp (R730XD, R640), Quản trị từ xa qua iDRAC, Ảo hóa Proxmox VE, Giải pháp lưu trữ Synology NAS, bảo vệ dữ liệu bằng RAID. Mạng nội bộ tốc độ cao 2.5Gb/10Gb LAN, thiết bị định tuyến Mikrotik (NAT, firewall, VLAN, Multi-WAN ISP).
+- **Bộ công cụ DevOps**: Hệ điều hành Linux, Docker, Portainer, Traefik, NGINX, Apache, CI/CD Jenkins, GitLab CI, GitHub Actions, Drone.io.
+
+**Hệ sinh thái Tích hợp, Trí tuệ tự tạo (AI) & Tự động hóa**
+- **Năng lực (Capabilities)**: Thiết kế các luồng tự động hóa (workflow) kiến trúc phức tạp để tích hợp đa hệ thống, cào dữ liệu (web scraping) và tối ưu hóa các quy trình nghiệp vụ. Lập trình các n8n node tùy biến. Có kinh nghiệm triển khai máy chủ AI tự quản lý (Self-hosting) và phát triển các trợ lý ảo (Chatbots) thông minh, có hiểu biết ngữ cảnh.
+- **Công nghệ (Tech Stack)**: Hệ thống n8n (integration, automation, self-hosting chuyên biệt), Hệ thống Dify.ai (self-hosting, lập trình chatbot AI), Tích hợp OpenAI/Mô hình ngôn ngữ lớn LLMs, API GraphQL, giao thức Socket.io.
+
+**Hệ sinh thái Nhà Thông Minh (Smart Home) & Mã nguồn IoT**
+- **Năng lực (Capabilities)**: Thiết kế và triển khai thiết lập hệ sinh thái nhà thông minh cục bộ (local-first) chú trọng cao tới tính riêng tư và độ tin cậy bằng cách loại bỏ triệt để sự phụ thuộc vào máy chủ ảo (cloud) của bên thứ ba.
+- **Công nghệ (Tech Stack)**: Nền tảng điều khiển Home Assistant, Lập trình bảng mạch Arduino, Sóng Zigbee, phần cứng Raspberry Pi.
+
+**Phát triển Frontend (Giao diện ứng dụng)**
+- **Công nghệ (Tech Stack)**: ReactJS, Vue.js / Nuxt.js, React Native, Thư viện Ant Design.
+
+
+
+---
+
+### 🎓 Học Vấn
+
+**Cao đẳng Thực hành FPT Polytechnic Hà Nội** | `2013 - 2016`
+- **Chuyên ngành**: Ứng dụng CNTT trong doanh nghiệp.
+- **Xếp loại tốt nghiệp**: Rất Tốt (Very Good).
+
+---
+
+### 📈 Thống Kê GitHub Cá Nhân (GitHub Profile Stats)
 
 <p align="center">
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khoazero123&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
@@ -54,10 +82,15 @@ Tôi là lập trình viên Backend kiêm DevOps, chuyên về PHP, Node.js, Doc
   <img src="https://github-profile-trophy.vercel.app/?username=khoazero123&theme=onedark"/>
 </p>
 
-## Liên hệ
+---
 
-- **Email**: khoazero123@gmail.com
-- Sẵn sàng hợp tác theo mô hình freelance, dự án trọn gói hoặc theo giờ.
+### 📫 Thông Tin Liên Hệ (Contact & Connections)
+
+- **Email**: [khoazero123@gmail.com](mailto:khoazero123@gmail.com)
+- **LinkedIn**: [linkedin.com/in/khoazero123](https://www.linkedin.com/in/khoazero123)
+- **Điện thoại di động**: +84 963 212 280
+- **Địa chỉ hiện tại**: Cửa Lò, Nghệ An, Việt Nam.
+- *Tôi luôn chủ động tìm kiếm các cơ hội việc làm toàn thời gian (Full-time) ở vị trí Kỹ sư Backend (Backend Engineer) hoặc Chuyên gia DevOps (DevOps Specialist) tại các công ty Product hoặc công ty Công nghệ năng động.*
 
 <p align="left">
   <a href="mailto:khoazero123@gmail.com">
@@ -65,6 +98,9 @@ Tôi là lập trình viên Backend kiêm DevOps, chuyên về PHP, Node.js, Doc
   </a>
   <a href="https://github.com/khoazero123">
     <img src="https://img.shields.io/badge/GitHub-khoazero123-1F222E?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/khoazero123">
+    <img src="https://img.shields.io/badge/LinkedIn-Khoa_Vo-1F222E?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
