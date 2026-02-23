@@ -33,7 +33,7 @@
 Tôi là một kỹ sư phần mềm luôn hướng đến kết quả và khả năng thích ứng cao, tận dụng nền tảng công nghệ chuyên sâu để xây dựng các hệ thống mạnh mẽ và dễ dàng mở rộng:
 
 **Phát triển Backend & Server-side API**
-- **Năng lực (Capabilities)**: Thiết kế và triển khai kiến trúc API RESTful cùng Microservices; tối ưu hóa hiệu suất, đảm bảo khả năng chịu tải (high scalability), và áp dụng các tiêu chuẩn bảo mật khắt khe.
+- **Năng lực (Capabilities)**: Thiết kế và triển khai kiến trúc API RESTful và GraphQL cùng Microservices; tối ưu hóa hiệu suất, đảm bảo khả năng chịu tải (high scalability), và áp dụng các tiêu chuẩn bảo mật khắt khe.
 - **Công nghệ (Tech Stack)**: PHP (Laravel, CodeIgniter, Symfony, CakePHP, Yii), Node.js (NestJS, ExpressJS, Strapi, Koa), Python.
 - **Hệ cơ sở dữ liệu**: MySQL, MariaDB, PostgreSQL, MongoDB, SQLite, Redis, Memcached.
 
@@ -49,13 +49,13 @@ Tôi là một kỹ sư phần mềm luôn hướng đến kết quả và khả
 
 **Hệ sinh thái Tích hợp, Trí tuệ tự tạo (AI) & Tự động hóa**
 - **Năng lực (Capabilities)**: Thiết kế các luồng tự động hóa (workflow) kiến trúc phức tạp để tích hợp đa hệ thống, cào dữ liệu (web scraping) và tối ưu hóa các quy trình nghiệp vụ. Lập trình các n8n node tùy biến. Có kinh nghiệm triển khai máy chủ AI tự quản lý (Self-hosting) và phát triển các trợ lý ảo (Chatbots) thông minh, có hiểu biết ngữ cảnh.
-- **Công nghệ (Tech Stack)**: Hệ thống n8n (integration, automation, self-hosting chuyên biệt), Hệ thống Dify.ai (self-hosting, lập trình chatbot AI), Tích hợp OpenAI/Mô hình ngôn ngữ lớn LLMs, API GraphQL, giao thức Socket.io.
+- **Công nghệ (Tech Stack)**: Hệ thống n8n (integration, automation, self-hosting chuyên biệt), Hệ thống Dify.ai (self-hosting, lập trình chatbot AI), Tích hợp OpenAI/Mô hình ngôn ngữ lớn LLMs.
 
 **Hệ sinh thái Nhà Thông Minh (Smart Home) & Mã nguồn IoT**
 - **Năng lực (Capabilities)**: Thiết kế và triển khai thiết lập hệ sinh thái nhà thông minh cục bộ (local-first) chú trọng cao tới tính riêng tư và độ tin cậy bằng cách loại bỏ triệt để sự phụ thuộc vào máy chủ ảo (cloud) của bên thứ ba.
 - **Công nghệ (Tech Stack)**: Nền tảng điều khiển Home Assistant, Lập trình bảng mạch Arduino, Sóng Zigbee, phần cứng Raspberry Pi.
 
-**Phát triển Frontend (Giao diện ứng dụng)**
+**Phát triển Frontend**
 - **Công nghệ (Tech Stack)**: ReactJS, Vue.js / Nuxt.js, React Native, Thư viện Ant Design.
 
 

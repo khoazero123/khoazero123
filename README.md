@@ -33,7 +33,7 @@
 I am an adaptable and results-driven engineer, leveraging a deep technical stack to build robust, scalable systems:
 
 **Backend & API Development**
-- **Capabilities**: Designing RESTful APIs and microservices architectures; optimizing performance, ensuring high scalability, and implementing security best practices.
+- **Capabilities**: Designing RESTful and GraphQL APIs and microservices architectures; optimizing performance, ensuring high scalability, and implementing security best practices.
 - **Tech Stack**: PHP (Laravel, CodeIgniter, Symfony, CakePHP, Yii), Node.js (NestJS, ExpressJS, Strapi, Koa), Python.
 - **Databases**: MySQL, MariaDB, PostgreSQL, MongoDB, SQLite, Redis, Memcached.
 
@@ -49,7 +49,7 @@ I am an adaptable and results-driven engineer, leveraging a deep technical stack
 
 **Integration, AI & Automation**
 - **Capabilities**: Architecting advanced workflows for multi‑system integrations, web scraping, and business process optimization. Custom n8n node development. Self-hosting AI platforms and building intelligent, context-aware chatbots.
-- **Tech Stack**: n8n (integration, automation, self-hosting), Dify.ai (self-hosting, chatbot development), OpenAI/LLMs, GraphQL, Socket.io.
+- **Tech Stack**: n8n (integration, automation, self-hosting), Dify.ai (self-hosting, chatbot development), OpenAI/LLMs.
 
 **IoT & Smart Home Ecosystems**
 - **Capabilities**: Designing and deploying local-first smart home ecosystems focusing on privacy and reliability without third-party cloud dependency.
