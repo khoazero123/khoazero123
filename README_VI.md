@@ -84,12 +84,14 @@ Tôi là một kỹ sư phần mềm luôn hướng đến kết quả và khả
 
 ---
 
-### 📫 Thông Tin Liên Hệ (Contact & Connections)
+### 📫 Thông Tin Cá Nhân & Liên Hệ
 
+- **Năm sinh**: 1994
+- **Tình trạng hôn nhân**: Đã kết hôn
+- **Địa chỉ hiện tại**: Cửa Lò, Nghệ An, Việt Nam.
 - **Email**: [khoazero123@gmail.com](mailto:khoazero123@gmail.com)
 - **LinkedIn**: [linkedin.com/in/khoazero123](https://www.linkedin.com/in/khoazero123)
 - **Điện thoại di động**: +84 963 212 280
-- **Địa chỉ hiện tại**: Cửa Lò, Nghệ An, Việt Nam.
 - *Tôi luôn chủ động tìm kiếm các cơ hội việc làm toàn thời gian (Full-time) ở vị trí Kỹ sư Backend (Backend Engineer) hoặc Chuyên gia DevOps (DevOps Specialist) tại các công ty Product hoặc công ty Công nghệ năng động.*
 
 <p align="left">
