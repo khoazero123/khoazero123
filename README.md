@@ -90,7 +90,6 @@ I am an adaptable and results-driven engineer, leveraging a deep technical stack
 - **Marital Status**: Married
 - **Location**: Cua Lo, Nghe An, Vietnam
 - **Email**: [khoazero123@gmail.com](mailto:khoazero123@gmail.com)
-- **LinkedIn**: [linkedin.com/in/khoazero123](https://www.linkedin.com/in/khoazero123)
 - **Phone**: +84 963 212 280
 - *Actively seeking full-time opportunities as a Backend Engineer or DevOps Specialist in a dynamic product or tech company.*
 
