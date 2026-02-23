@@ -79,7 +79,7 @@ I am an adaptable and results-driven engineer, leveraging a deep technical stack
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khoazero123&theme=radical"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khoazero123&theme=onedark"/>
+  <img src="https://github-profile-trophy-1-smoky.vercel.app/?username=khoazero123&theme=onedark"/>
 </p>
 
 ---

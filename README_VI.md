@@ -66,7 +66,7 @@ Tôi là một kỹ sư phần mềm luôn hướng đến kết quả và khả
 
 **Cao đẳng Thực hành FPT Polytechnic Hà Nội** | `2013 - 2016`
 - **Chuyên ngành**: Ứng dụng CNTT trong doanh nghiệp.
-- **Xếp loại tốt nghiệp**: Rất Tốt (Very Good).
+- **Xếp loại tốt nghiệp**: Rất Tốt.
 
 ---
 
@@ -79,7 +79,7 @@ Tôi là một kỹ sư phần mềm luôn hướng đến kết quả và khả
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khoazero123&theme=radical"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khoazero123&theme=onedark"/>
+  <img src="https://github-profile-trophy-1-smoky.vercel.app/?username=khoazero123&theme=onedark"/>
 </p>
 
 ---
