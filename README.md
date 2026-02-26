@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <i>Senior Backend Engineer with a strong track record in designing scalable systems. Core expertise spans across <b>PHP / Node.js</b>, robust <b>Linux</b> server administration, containerized deployments with <b>Docker</b>, advanced workflow automation using <b>n8n</b>, and the design of intelligent <b>AI Chatbots</b>. Passionate about leveraging these core skills to deliver performant, highly-available products from the ground up to deployment.</i>
+  <i>Senior Backend Engineer with a strong track record in designing scalable systems. Core expertise spans across <b>PHP / Node.js</b>, robust <b>Linux</b> server administration, containerized deployments with <b>Docker</b>, advanced workflow automation using <b>n8n</b>, and the design of intelligent <b>AI Chatbots</b>. Committed to a <b>security-first mindset</b> — proactively auditing for potential vulnerabilities and enforcing best practices at every stage of development. Passionate about leveraging these core skills to deliver performant, highly-available products from the ground up to deployment.</i>
 </p>
 
 ---
@@ -33,16 +33,16 @@
 I am an adaptable and results-driven engineer, leveraging a deep technical stack to build robust, scalable systems:
 
 **Backend & API Development**
-- **Capabilities**: Designing RESTful and GraphQL APIs, real-time communications via **Websocket**, and microservices architectures; optimizing performance, ensuring high scalability, and implementing security best practices.
+- **Capabilities**: Full-stack web development with the ability to **manage the entire website lifecycle** — from requirements planning, system architecture design, backend/frontend implementation, to server deployment and **SEO optimization**. Extensive production experience with **PHP** (Laravel as primary framework, with deep proficiency across CodeIgniter, Symfony, CakePHP, Yii) and **Node.js** (NestJS, ExpressJS) ecosystems. Proven ability to architect and deliver RESTful & GraphQL APIs, real-time communication systems via **WebSocket**, and microservices at scale. Strong focus on query optimization, caching strategies, high-availability architecture, and security best practices (OWASP, JWT, rate limiting).
 - **Tech Stack**: PHP (Laravel, CodeIgniter, Symfony, CakePHP, Yii), Node.js (NestJS, ExpressJS, Strapi, Koa), Python.
 - **Databases**: MySQL, MariaDB, PostgreSQL, MongoDB, SQLite, Redis, Memcached.
 
 **CMS, E-commerce & Odoo Enterprise**
-- **Capabilities**: Enterprise Odoo implementation & addon development. WordPress/WooCommerce custom plugin development (expert in payment gateways and complex logistics/shipping integrations). Magento 1 & 2 module development.
-- **Tech Stack**: Odoo (16/17/18), WordPress/WooCommerce, Magento 1 & 2, Strapi, Mautic.
+- **Capabilities**: Capable of developing solutions across **any business domain** as required. Extensive experience building custom **plugins and modules** for WordPress/WooCommerce, Magento 1 & 2, and Odoo. Notably developed numerous **payment gateway and shipping/logistics plugins tailored for the Australian market**. Enterprise-grade Odoo implementation and addon development.
+- **Tech Stack**: Odoo (16/17/18), WordPress/WooCommerce, Magento 1 & 2, Strapi, Nestjs.
 
 **DevOps, System Administration & Networking**
-- **Capabilities**: Complete lifecycle management of on-premise and cloud infrastructure. Server provisioning, proxy configurations, load balancing, CI/CD pipeline automation, and advanced network routing.
+- **Capabilities**: Hands-on experience in **CI/CD pipeline design** for both websites and software products using **GitHub Actions**, **GitLab CI/CD Pipelines**, Jenkins, and Drone.io — automating the full delivery cycle including code review, linting, unit testing, **Docker image builds**, and **automated deployments to dev/staging/production** environments. Complete lifecycle management of on-premise and cloud infrastructure encompassing server provisioning, reverse proxy configurations (Traefik, NGINX), load balancing, SSL/TLS automation, and advanced network routing.
 - **Cloud & CDN**: AWS (EC2, S3), DigitalOcean, Vultr, Cloudflare (Cache Rules, Workers, Tunnels).
 - **Hardware & Networking**: DELL Enterprise Servers (R730XD, R640), iDRAC, Proxmox VE, Synology NAS, RAID. 2.5Gb/10Gb LAN, Mikrotik routers (NAT, firewall, VLAN, multi-WAN).
 - **DevOps Tools**: Linux, Docker, Portainer, Traefik, NGINX, Apache, Jenkins, GitLab CI, GitHub Actions, Drone.io.
@@ -56,7 +56,7 @@ I am an adaptable and results-driven engineer, leveraging a deep technical stack
 - **Tech Stack**: Home Assistant, Arduino, Zigbee, Raspberry Pi.
 
 **Frontend Development**
-- **Tech Stack**: ReactJS, Vue.js / Nuxt.js, React Native, Ant Design.
+- **Tech Stack**: ReactJS, Vue.js / Nuxt.js, React Native, Ant Design, TanStack Query.
 
 
 

@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <i>Kỹ sư Backend (Senior Backend Engineer) với nền tảng vững chắc trong việc thiết kế các hệ thống có khả năng chịu tải cao. Sở trường cốt lõi tập trung vào <b>PHP / Node.js</b>, quản trị máy chủ <b>Linux</b> chuyên sâu, triển khai hạ tầng ảo hóa với <b>Docker</b>, tự động hóa quy trình phức tạp thông qua <b>n8n</b>, và xây dựng các trợ lý ảo <b>AI Chatbots</b> thông minh. Đam mê tận dụng bộ kỹ năng cốt lõi này để phát triển và vận hành các sản phẩm công nghệ đột phá từ con số không.</i>
+  <i>Kỹ sư Backend (Senior Backend Engineer) với nền tảng vững chắc trong việc thiết kế các hệ thống có khả năng chịu tải cao. Sở trường cốt lõi tập trung vào <b>PHP / Node.js</b>, quản trị máy chủ <b>Linux</b> chuyên sâu, triển khai hạ tầng ảo hóa với <b>Docker</b>, tự động hóa quy trình phức tạp thông qua <b>n8n</b>, và xây dựng các trợ lý ảo <b>AI Chatbots</b> thông minh. Luôn đặt <b>tư duy bảo mật lên hàng đầu</b> — chủ động rà soát mọi lỗ hổng tiềm tàng và áp dụng các tiêu chuẩn bảo mật tốt nhất trong mọi giai đoạn phát triển. Đam mê tận dụng bộ kỹ năng cốt lõi này để phát triển và vận hành các sản phẩm công nghệ đột phá từ con số không.</i>
 </p>
 
 ---
@@ -33,16 +33,16 @@
 Tôi là một kỹ sư phần mềm luôn hướng đến kết quả và khả năng thích ứng cao, tận dụng nền tảng công nghệ chuyên sâu để xây dựng các hệ thống mạnh mẽ và dễ dàng mở rộng:
 
 **Phát triển Backend & Server-side API**
-- **Năng lực (Capabilities)**: Thiết kế và triển khai kiến trúc API RESTful, GraphQL, giao tiếp thời gian thực qua **Websocket** cùng Microservices; tối ưu hóa hiệu suất, đảm bảo khả năng chịu tải (high scalability), và áp dụng các tiêu chuẩn bảo mật khắt khe.
+- **Năng lực (Capabilities)**: Phát triển web Full-stack với khả năng **quản lý toàn bộ vòng đời phát triển website** — từ lập kế hoạch yêu cầu, thiết kế kiến trúc hệ thống, triển khai backend/frontend, cho đến deploy lên server và **tối ưu hóa SEO**. Kinh nghiệm thực chiến dày dặn với hệ sinh thái **PHP** (Laravel là framework chủ lực, cùng khả năng vận dụng thuần thục CodeIgniter, Symfony, CakePHP, Yii) và **Node.js** (NestJS, ExpressJS). Có năng lực thiết kế và triển khai kiến trúc API RESTful & GraphQL, hệ thống giao tiếp thời gian thực qua **WebSocket**, và Microservices ở quy mô lớn. Chú trọng tối ưu hóa truy vấn (query optimization), chiến lược caching, kiến trúc High-Availability, và các tiêu chuẩn bảo mật khắt khe (OWASP, JWT, rate limiting).
 - **Công nghệ (Tech Stack)**: PHP (Laravel, CodeIgniter, Symfony, CakePHP, Yii), Node.js (NestJS, ExpressJS, Strapi, Koa), Python.
 - **Hệ cơ sở dữ liệu**: MySQL, MariaDB, PostgreSQL, MongoDB, SQLite, Redis, Memcached.
 
 **CMS, E-commerce & Odoo Enterprise**
-- **Năng lực (Capabilities)**: Triển khai và phát triển addon hệ thống Odoo cấp doanh nghiệp. Xây dựng Plugin WordPress/WooCommerce tùy chỉnh (chuyên gia về các giải pháp tích hợp cổng thanh toán và logic vận chuyển hàng hóa). Phát triển module hệ thống Magento 1 & 2.
-- **Công nghệ (Tech Stack)**: Odoo (16/17/18), WordPress / WooCommerce, Magento 1 & 2, Strapi, Mautic.
+- **Năng lực (Capabilities)**: Có khả năng phát triển giải pháp cho **mọi lĩnh vực kinh doanh** theo yêu cầu. Kinh nghiệm dày dặn trong việc xây dựng **plugin và module tùy chỉnh** cho WordPress/WooCommerce, Magento 1 & 2, và Odoo. Đặc biệt đã phát triển nhiều **plugin tích hợp cổng thanh toán và vận chuyển/logistics dành riêng cho thị trường Úc (Australia)**. Triển khai và phát triển addon Odoo cấp doanh nghiệp.
+- **Công nghệ (Tech Stack)**: Odoo (16/17/18), WordPress / WooCommerce, Magento 1 & 2, Strapi, Nestjs.
 
 **DevOps, Quản trị hệ thống & Mạng (Networking)**
-- **Năng lực (Capabilities)**: Quản lý hạ tầng máy chủ vật lý (on-premise) và đám mây (Cloud). Đảm nhận việc cung cấp (provisioning) máy chủ, thiết lập Proxy, Cân bằng tải (Load Balancing), tự động hóa các CI/CD pipeline, và quản lý định tuyến tầng mạng lưới (network routing).
+- **Năng lực (Capabilities)**: Kinh nghiệm thực chiến trong **thiết kế CI/CD pipeline** cho cả website lẫn phần mềm sử dụng **GitHub Actions**, **GitLab CI/CD Pipelines**, Jenkins, và Drone.io — tự động hóa toàn bộ chu trình phân phối bao gồm review code tự động, linting, unit testing, **build Docker image**, và **deploy tự động lên môi trường dev/staging/production**. Quản lý toàn diện hạ tầng máy chủ vật lý (on-premise) và đám mây (Cloud) bao gồm provisioning máy chủ, cấu hình reverse proxy (Traefik, NGINX), cân bằng tải (Load Balancing), tự động hóa SSL/TLS, và quản lý định tuyến mạng nâng cao.
 - **Đám mây & Phân phối toàn cầu (Cloud/CDN)**: AWS (EC2, S3), DigitalOcean, Vultr, nền tảng Cloudflare (Cache Rules, Workers, Tunnels).
 - **Phần cứng & Mạng máy tính**: Hệ thống Máy chủ DELL Doanh Nghiệp (R730XD, R640), Quản trị từ xa qua iDRAC, Ảo hóa Proxmox VE, Giải pháp lưu trữ Synology NAS, bảo vệ dữ liệu bằng RAID. Mạng nội bộ tốc độ cao 2.5Gb/10Gb LAN, thiết bị định tuyến Mikrotik (NAT, firewall, VLAN, Multi-WAN ISP).
 - **Bộ công cụ DevOps**: Hệ điều hành Linux, Docker, Portainer, Traefik, NGINX, Apache, CI/CD Jenkins, GitLab CI, GitHub Actions, Drone.io.
@@ -56,7 +56,7 @@ Tôi là một kỹ sư phần mềm luôn hướng đến kết quả và khả
 - **Công nghệ (Tech Stack)**: Nền tảng điều khiển Home Assistant, Lập trình bảng mạch Arduino, Sóng Zigbee, phần cứng Raspberry Pi.
 
 **Phát triển Frontend**
-- **Công nghệ (Tech Stack)**: ReactJS, Vue.js / Nuxt.js, React Native, Thư viện Ant Design.
+- **Công nghệ (Tech Stack)**: ReactJS, Vue.js / Nuxt.js, React Native, Thư viện Ant Design, TanStack Query.
 
 
 
