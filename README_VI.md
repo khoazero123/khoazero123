@@ -3,7 +3,7 @@
 <h3 align="center">Chuyên gia Backend & DevOps (Senior Backend Engineer)</h3>
 
 <p align="center">
-  <a href="README.md">English</a> · <a href="README_VI.md">Tiếng Việt</a>
+  <a href="README.md">English</a>
 </p>
 
 <p align="center">

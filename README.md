@@ -3,7 +3,7 @@
 <h3 align="center">Senior Backend Engineer & DevOps Specialist</h3>
 
 <p align="center">
-  <a href="README.md">English</a> · <a href="README_VI.md">Tiếng Việt</a>
+  <a href="README_VI.md">Tiếng Việt</a>
 </p>
 
 <p align="center">
