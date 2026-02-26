@@ -56,9 +56,11 @@ I am an adaptable and results-driven engineer, leveraging a deep technical stack
 - **Tech Stack**: Home Assistant, Arduino, Zigbee, Raspberry Pi.
 
 **Frontend Development**
-- **Tech Stack**: ReactJS, Vue.js / Nuxt.js, React Native, Ant Design, TanStack Query.
+- **Tech Stack**: ReactJS, Vue.js / Nuxt.js, Ant Design, TanStack Query.
 
-
+**Mobile Development**
+- **Capabilities**: Developed cross-platform mobile applications using **React Native** and successfully **published apps on the Google Play Store**. While not a dedicated mobile specialist, fully confident in independently handling any mobile development task end-to-end.
+- **Tech Stack**: React Native, Android Studio, Expo.
 
 ---
 

@@ -56,9 +56,11 @@ Tôi là một kỹ sư phần mềm luôn hướng đến kết quả và khả
 - **Công nghệ (Tech Stack)**: Nền tảng điều khiển Home Assistant, Lập trình bảng mạch Arduino, Sóng Zigbee, phần cứng Raspberry Pi.
 
 **Phát triển Frontend**
-- **Công nghệ (Tech Stack)**: ReactJS, Vue.js / Nuxt.js, React Native, Thư viện Ant Design, TanStack Query.
+- **Công nghệ (Tech Stack)**: ReactJS, Vue.js / Nuxt.js, Thư viện Ant Design, TanStack Query.
 
-
+**Phát triển Mobile**
+- **Năng lực (Capabilities)**: Đã phát triển ứng dụng di động đa nền tảng bằng **React Native** và **đăng tải thành công ứng dụng lên Google Play Store**. Dù không phải chuyên gia mobile chuyên sâu, nhưng hoàn toàn tự tin xử lý độc lập mọi task liên quan đến phát triển ứng dụng di động.
+- **Công nghệ (Tech Stack)**: React Native, Android Studio, Expo.
 
 ---
 
