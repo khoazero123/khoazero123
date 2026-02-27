@@ -1,8 +1,12 @@
 # Khoa Vo — Senior Backend Engineer & DevOps Specialist
 
-**Year of Birth**: 1994 | **Location**: Cua Lo, Nghe An, Vietnam | **Marital Status**: Married
-**Email**: khoazero123@gmail.com | **Phone**: +84 963 212 280
-**GitHub**: [github.com/khoazero123](https://github.com/khoazero123) | **LinkedIn**: [linkedin.com/in/khoazero123](https://www.linkedin.com/in/khoazero123)
+**Year of Birth**: 1994<br>
+**Location**: Cua Lo, Nghe An, Vietnam<br>
+**Marital Status**: Married<br>
+**Email**: khoazero123@gmail.com<br>
+**Phone**: +84 963 212 280<br>
+**GitHub**: [github.com/khoazero123](https://github.com/khoazero123)<br>
+**LinkedIn**: [linkedin.com/in/khoazero123](https://www.linkedin.com/in/khoazero123)
 
 > Senior Backend Engineer with a strong track record in designing scalable systems. Core expertise spans across **PHP / Node.js**, robust **Linux** server administration, containerized deployments with **Docker**, advanced workflow automation using **n8n**, and the design of intelligent **AI Chatbots**. Committed to a **security-first mindset** — proactively auditing for potential vulnerabilities and enforcing best practices at every stage of development. Passionate about leveraging these core skills to deliver performant, highly-available products from the ground up to deployment.
 
@@ -67,5 +71,3 @@ I am an adaptable and results-driven engineer, leveraging a deep technical stack
 - **Degree Classification**: Very Good
 
 ---
-
-*Actively seeking full-time opportunities as a Backend Engineer or DevOps Specialist in a dynamic product or tech company.*
