@@ -38,8 +38,8 @@ I am an adaptable and results-driven engineer, leveraging a deep technical stack
 - **Databases**: MySQL, MariaDB, PostgreSQL, MongoDB, SQLite, Redis, Memcached.
 
 **CMS, E-commerce & Odoo Enterprise**
-- **Capabilities**: Capable of developing solutions across **any business domain** as required. Extensive experience building custom **plugins and modules** for WordPress/WooCommerce, Magento 1 & 2, and Odoo. Notably developed numerous **payment gateway and shipping/logistics plugins tailored for the Australian market**. Enterprise-grade Odoo implementation and addon development.
-- **Tech Stack**: Odoo (16/17/18), WordPress/WooCommerce, Magento 1 & 2, Strapi, Nestjs.
+- **Capabilities**: Capable of developing solutions across **any business domain** as required. Extensive experience building custom **plugins, modules, and Shopify apps** for WordPress/WooCommerce, Magento 1 & 2, Shopify, and Odoo. Notably developed numerous **payment gateway and shipping/logistics plugins tailored for the Australian market**. Enterprise-grade Odoo implementation and addon development.
+- **Tech Stack**: Odoo (16/17/18), WordPress/WooCommerce, Magento 1 & 2, Shopify (App Development), Strapi, Nestjs.
 
 **DevOps, System Administration & Networking**
 - **Capabilities**: Hands-on experience in **CI/CD pipeline design** for both websites and software products using **GitHub Actions**, **GitLab CI/CD Pipelines**, Jenkins, and Drone.io — automating the full delivery cycle including code review, linting, unit testing, **Docker image builds**, and **automated deployments to dev/staging/production** environments. Complete lifecycle management of on-premise and cloud infrastructure encompassing server provisioning, reverse proxy configurations (Traefik, NGINX), load balancing, SSL/TLS automation, and advanced network routing.

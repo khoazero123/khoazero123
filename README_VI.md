@@ -38,8 +38,8 @@ Tôi là một kỹ sư phần mềm luôn hướng đến kết quả và khả
 - **Hệ cơ sở dữ liệu**: MySQL, MariaDB, PostgreSQL, MongoDB, SQLite, Redis, Memcached.
 
 **CMS, E-commerce & Odoo Enterprise**
-- **Năng lực (Capabilities)**: Có khả năng phát triển giải pháp cho **mọi lĩnh vực kinh doanh** theo yêu cầu. Kinh nghiệm dày dặn trong việc xây dựng **plugin và module tùy chỉnh** cho WordPress/WooCommerce, Magento 1 & 2, và Odoo. Đặc biệt đã phát triển nhiều **plugin tích hợp cổng thanh toán và vận chuyển/logistics dành riêng cho thị trường Úc (Australia)**. Triển khai và phát triển addon Odoo cấp doanh nghiệp.
-- **Công nghệ (Tech Stack)**: Odoo (16/17/18), WordPress / WooCommerce, Magento 1 & 2, Strapi, Nestjs.
+- **Năng lực (Capabilities)**: Có khả năng phát triển giải pháp cho **mọi lĩnh vực kinh doanh** theo yêu cầu. Kinh nghiệm dày dặn trong việc xây dựng **plugin, module, và Shopify app tùy chỉnh** cho WordPress/WooCommerce, Magento 1 & 2, Shopify, và Odoo. Đặc biệt đã phát triển nhiều **plugin tích hợp cổng thanh toán và vận chuyển/logistics dành riêng cho thị trường Úc (Australia)**. Triển khai và phát triển addon Odoo cấp doanh nghiệp.
+- **Công nghệ (Tech Stack)**: Odoo (16/17/18), WordPress / WooCommerce, Magento 1 & 2, Shopify (App Development), Strapi, Nestjs.
 
 **DevOps, Quản trị hệ thống & Mạng (Networking)**
 - **Năng lực (Capabilities)**: Kinh nghiệm thực chiến trong **thiết kế CI/CD pipeline** cho cả website lẫn phần mềm sử dụng **GitHub Actions**, **GitLab CI/CD Pipelines**, Jenkins, và Drone.io — tự động hóa toàn bộ chu trình phân phối bao gồm review code tự động, linting, unit testing, **build Docker image**, và **deploy tự động lên môi trường dev/staging/production**. Quản lý toàn diện hạ tầng máy chủ vật lý (on-premise) và đám mây (Cloud) bao gồm provisioning máy chủ, cấu hình reverse proxy (Traefik, NGINX), cân bằng tải (Load Balancing), tự động hóa SSL/TLS, và quản lý định tuyến mạng nâng cao.
