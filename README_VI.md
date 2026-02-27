@@ -14,7 +14,7 @@
 
 ### 💼 Kinh Nghiệm Làm Việc
 
-**Web Developer** | *FGC Techlution (Vinh, Nghệ An, Việt Nam)* | `02/2021 - Present` *và* `05/2017 - 07/2020`
+**Web Developer** | *FGC Techlution (hợp tác với Sydney Ecommerce — B2B E-Commerce Solutions Pty Ltd, Úc)* | `02/2021 - Present` *và* `05/2017 - 07/2020`
 - Phát triển và bảo trì các ứng dụng web với khả năng mở rộng cao sử dụng PHP (Laravel, WordPress, Magento 1 & 2).
 - Xây dựng và tùy chỉnh các plugin/extension cho hệ thống WordPress và Magento.
 - Tích hợp giao diện Frontend và xây dựng ứng dụng di động đa nền tảng bằng React Native.

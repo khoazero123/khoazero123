@@ -14,7 +14,7 @@
 
 ### 💼 Work Experience
 
-**Web Developer** | *FGC Techlution (Vinh, Nghe An, Vietnam)* | `02/2021 - Present` *and* `05/2017 - 07/2020`
+**Web Developer** | *FGC Techlution (in partnership with Sydney Ecommerce — a B2B E-Commerce Solutions Pty Ltd, Australia)* | `02/2021 - Present` *and* `05/2017 - 07/2020`
 - Develop and maintain scalable web applications using PHP (Laravel, WordPress, Magento 1 & 2).
 - Build and customize plugins/extensions for WordPress and Magento sites.
 - Integrate front-end elements and build cross-platform mobile applications using React Native.
