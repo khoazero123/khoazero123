@@ -1,73 +1,74 @@
-# Khoa Vo — Senior Backend Engineer & DevOps Specialist
+# KHOA VO
 
-**Year of Birth**: 1994<br>
-**Location**: Cua Lo, Nghe An, Vietnam<br>
-**Marital Status**: Married<br>
-**Email**: khoazero123@gmail.com<br>
-**Phone**: +84 963 212 280<br>
-**GitHub**: [github.com/khoazero123](https://github.com/khoazero123)<br>
-**LinkedIn**: [linkedin.com/in/khoazero123](https://www.linkedin.com/in/khoazero123)
+### Backend Developer
 
-> Senior Backend Engineer with a strong track record in designing scalable systems. Core expertise spans across **PHP / Node.js**, robust **Linux** server administration, containerized deployments with **Docker**, advanced workflow automation using **n8n**, and the design of intelligent **AI Chatbots**. Committed to a **security-first mindset** — proactively auditing for potential vulnerabilities and enforcing best practices at every stage of development. Passionate about leveraging these core skills to deliver performant, highly-available products from the ground up to deployment.
+Cua Lo, Nghe An, Vietnam | khoazero123@gmail.com | +84 963 212 280
+[github.com/khoazero123](https://github.com/khoazero123) | [linkedin.com/in/khoazero123](https://www.linkedin.com/in/khoazero123) | 1994
 
 ---
 
-## 💼 Work Experience
+Backend Developer with 7+ years of production experience in PHP and 4+ years in Node.js, specializing in designing and delivering scalable, high-availability systems. Proven expertise in RESTful & GraphQL API architecture, containerized deployments with Docker, CI/CD pipeline automation, and Linux server administration. Strong focus on security best practices (OWASP, JWT, rate limiting) and performance optimization. Passionate about building robust backend infrastructure from architecture design through production deployment.
 
-**Web Developer** | *FGC Techlution (in partnership with Sydney Ecommerce — a B2B E-Commerce Solutions Pty Ltd, Australia)* | `02/2021 - Present` *and* `05/2017 - 07/2020`
-- Develop and maintain scalable web applications using PHP (Laravel, WordPress, Magento 1 & 2).
-- Build and customize plugins/extensions for WordPress and Magento sites.
-- Integrate front-end elements and build cross-platform mobile applications using React Native.
-- Configure, install, and autonomously operate CentOS/Ubuntu web servers on Virtual Private Servers.
-- Actively train, manage, and provide technical guidance to software engineering interns.
-
-**Backend Developer** | *NTQ Solution (Ha Noi, Vietnam)* | `09/2020 - 02/2021`
-- Maintained a chat application ecosystem utilizing the Rocket.Chat framework, including builds for macOS, Windows, and mobile apps.
-- Developed new custom functions and architectural extensions for Rocket.Chat.
-- Mentored and guided junior developers and interns to align with modern best practices.
 
 ---
 
-## 🛠️ Core Competencies & Tech Stack
+## AREA OF EXPERTISE
 
-I am an adaptable and results-driven engineer, leveraging a deep technical stack to build robust, scalable systems:
-
-**Backend & API Development**
-- **Capabilities**: Full-stack web development with the ability to **manage the entire website lifecycle** — from requirements planning, system architecture design, backend/frontend implementation, to server deployment and **SEO optimization**. Extensive production experience with **PHP** (Laravel as primary framework, with deep proficiency across CodeIgniter, Symfony, CakePHP, Yii) and **Node.js** (NestJS, ExpressJS) ecosystems. Proven ability to architect and deliver RESTful & GraphQL APIs, real-time communication systems via **WebSocket**, and microservices at scale. Strong focus on query optimization, caching strategies, high-availability architecture, and security best practices (OWASP, JWT, rate limiting).
-- **Tech Stack**: PHP — 7 years (Laravel, CodeIgniter, Symfony, CakePHP, Yii), Node.js — 4 years (NestJS, ExpressJS, Strapi, Koa), Python — 2 years.
-- **Databases**: MySQL, MariaDB, PostgreSQL, MongoDB, SQLite, Redis, Memcached.
-
-**CMS, E-commerce & Odoo Enterprise**
-- **Capabilities**: Capable of developing solutions across **any business domain** as required. Extensive experience building custom **plugins, modules, and Shopify apps** for WordPress/WooCommerce, Magento 1 & 2, Shopify, and Odoo. Notably developed numerous **payment gateway and shipping/logistics plugins tailored for the Australian market**. Enterprise-grade Odoo implementation and addon development.
-- **Tech Stack**: Odoo (16/17/18), WordPress/WooCommerce, Magento 1 & 2, Shopify (App Development), Strapi, Nestjs.
-
-**DevOps, System Administration & Networking**
-- **Capabilities**: Hands-on experience in **CI/CD pipeline design** for both websites and software products using **GitHub Actions**, **GitLab CI/CD Pipelines**, Jenkins, and Drone.io — automating the full delivery cycle including code review, linting, unit testing, **Docker image builds**, and **automated deployments to dev/staging/production** environments. Complete lifecycle management of on-premise and cloud infrastructure encompassing server provisioning, reverse proxy configurations (Traefik, NGINX), load balancing, SSL/TLS automation, and advanced network routing.
-- **Cloud & CDN**: AWS (EC2, S3), DigitalOcean, Vultr, Cloudflare (Cache Rules, Workers, Tunnels).
-- **Hardware & Networking**: DELL Enterprise Servers (R730XD, R640), iDRAC, Proxmox VE, Synology NAS, RAID. 2.5Gb/10Gb LAN, Mikrotik routers (NAT, firewall, VLAN, multi-WAN).
-- **DevOps Tools**: Linux, Docker, Portainer, Traefik, NGINX, Apache, Jenkins, GitLab CI, GitHub Actions, Drone.io.
-
-**Integration, AI & Automation**
-- **Capabilities**: Architecting advanced workflows for multi‑system integrations, web scraping, and business process optimization. Custom n8n node development. Self-hosting AI platforms and building intelligent, context-aware chatbots.
-- **Tech Stack**: n8n (integration, automation, self-hosting), Dify.ai (self-hosting, chatbot development), OpenAI/LLMs.
-
-**IoT & Smart Home Ecosystems**
-- **Capabilities**: Designing and deploying local-first smart home ecosystems focusing on privacy and reliability without third-party cloud dependency.
-- **Tech Stack**: Home Assistant, Arduino, Zigbee, Raspberry Pi.
-
-**Frontend Development**
-- **Tech Stack**: ReactJS, Vue.js / Nuxt.js, Ant Design, TanStack Query.
-
-**Mobile Development**
-- **Capabilities**: Developed cross-platform mobile applications using **React Native** and successfully **published apps on the Google Play Store**. While not a dedicated mobile specialist, fully confident in independently handling any mobile development task end-to-end.
-- **Tech Stack**: React Native, Android Studio, Expo.
+API Design & Development · Microservices Architecture · Database Optimization
+Docker & Containerization · CI/CD Pipelines · Linux Server Administration
+System Security & Hardening · Workflow Automation · Real-time Systems (WebSocket)
 
 ---
 
-## 🎓 Education
+## KEY ACHIEVEMENTS
+
+- **System Scalability**: Architected and maintained backend systems serving production workloads for a B2B E-Commerce platform (Australian market) over 5+ years of continuous operation.
+- **DevOps Automation**: Built end-to-end CI/CD pipelines with GitHub Actions & GitLab CI, automating code review, testing, Docker builds, and multi-environment deployments — reducing deployment time significantly.
+- **Infrastructure Management**: Independently provisioned and managed on-premise DELL enterprise servers (R730XD, R640) with Proxmox VE, including RAID, 10Gb networking, and Mikrotik advanced routing (NAT, VLAN, multi-WAN).
+- **Payment & Shipping Integrations**: Developed multiple payment gateway and shipping/logistics plugins tailored for the Australian market across WordPress, Magento, and Shopify platforms.
+
+---
+
+## PROFESSIONAL EXPERIENCE
+
+**Web Developer — FGC Techlution** (partner of Sydney Ecommerce, Australia) | `02/2021 - Present` & `05/2017 - 07/2020`
+- Architected and maintained scalable backend systems using PHP (Laravel) and Node.js for B2B E-Commerce solutions.
+- Developed 10+ custom plugins/extensions for WordPress, Magento 1 & 2, and Shopify — including payment gateways and logistics integrations for Australian businesses.
+- Managed full server lifecycle: provisioning CentOS/Ubuntu VPS, configuring Traefik/NGINX reverse proxy, SSL automation, and load balancing.
+- Designed CI/CD pipelines (GitHub Actions, GitLab CI) automating the full delivery cycle from code review to production deployment.
+- Trained and mentored software engineering interns, establishing coding standards and review processes.
+
+**Backend Developer — NTQ Solution** (Ha Noi, Vietnam) | `09/2020 - 02/2021`
+- Maintained and extended a Rocket.Chat-based communication platform, delivering custom features and multi-platform builds (macOS, Windows, mobile).
+- Developed new architectural extensions and backend modules for the Rocket.Chat ecosystem.
+- Mentored junior developers on modern backend best practices and code quality standards.
+
+---
+
+## TECHNICAL SKILLS
+
+- **Languages**: PHP — 7 years (Laravel, CodeIgniter, Symfony, CakePHP, Yii) · Node.js — 4 years (NestJS, ExpressJS, Strapi) · Python — 2 years
+- **Databases**: MySQL, MariaDB, PostgreSQL, MongoDB, Redis, SQLite
+- **DevOps**: Docker, Portainer, Traefik, NGINX, GitHub Actions, GitLab CI, Jenkins
+- **Cloud & CDN**: AWS (EC2, S3), DigitalOcean, Vultr, Cloudflare (Workers, Tunnels)
+- **Infrastructure**: Linux (Ubuntu, CentOS), Proxmox VE, Synology NAS, Mikrotik Routers
+- **CMS & E-commerce**: WordPress/WooCommerce, Magento 1 & 2, Shopify, Odoo (16/17/18)
+- **Automation & AI**: n8n (custom node development, self-hosting), Dify.ai, OpenAI/LLMs
+- **Frontend** *(supporting)*: ReactJS, Vue.js/Nuxt.js, React Native
+
+---
+
+## ADDITIONAL SKILLS
+
+- **Problem Solving**: Systematic debugging and root cause analysis across complex distributed systems.
+- **Technical Leadership**: Mentoring junior developers, establishing coding standards, and conducting code reviews.
+- **System Architecture**: Designing scalable, secure backend architectures from requirements to production.
+- **Self-learning**: Continuously adopting new technologies — recently focused on AI integration and workflow automation.
+
+---
+
+## EDUCATION
 
 **FPT Polytechnic College of Ha Noi** | `2013 - 2016`
-- **Major**: [Software Applications](https://caodang.fpt.edu.vn/nganh-hoc/ung-dung-phan-mem)
-- **Degree Classification**: Very Good
-
----
+- Major: Software Applications
+- Degree Classification: Very Good
