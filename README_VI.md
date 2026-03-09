@@ -34,7 +34,7 @@ Tôi là một kỹ sư phần mềm luôn hướng đến kết quả và khả
 
 **Phát triển Backend & Server-side API**
 - **Năng lực (Capabilities)**: Phát triển web Full-stack với khả năng **quản lý toàn bộ vòng đời phát triển website** — từ lập kế hoạch yêu cầu, thiết kế kiến trúc hệ thống, triển khai backend/frontend, cho đến deploy lên server và **tối ưu hóa SEO**. Kinh nghiệm thực chiến dày dặn với hệ sinh thái **PHP** (Laravel là framework chủ lực, cùng khả năng vận dụng thuần thục CodeIgniter, Symfony, CakePHP, Yii) và **Node.js** (NestJS, ExpressJS). Có năng lực thiết kế và triển khai kiến trúc API RESTful & GraphQL, hệ thống giao tiếp thời gian thực qua **WebSocket**, và Microservices ở quy mô lớn. Chú trọng tối ưu hóa truy vấn (query optimization), chiến lược caching, kiến trúc High-Availability, và các tiêu chuẩn bảo mật khắt khe (OWASP, JWT, rate limiting).
-- **Công nghệ (Tech Stack)**: PHP (Laravel, CodeIgniter, Symfony, CakePHP, Yii), Node.js (NestJS, ExpressJS, Strapi, Koa), Python.
+- **Công nghệ (Tech Stack)**: PHP — 7 năm (Laravel, CodeIgniter, Symfony, CakePHP, Yii), Node.js — 4 năm (NestJS, ExpressJS, Strapi, Koa), Python — 2 năm.
 - **Hệ cơ sở dữ liệu**: MySQL, MariaDB, PostgreSQL, MongoDB, SQLite, Redis, Memcached.
 
 **CMS, E-commerce & Odoo Enterprise**

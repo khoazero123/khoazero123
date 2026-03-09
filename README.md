@@ -34,7 +34,7 @@ I am an adaptable and results-driven engineer, leveraging a deep technical stack
 
 **Backend & API Development**
 - **Capabilities**: Full-stack web development with the ability to **manage the entire website lifecycle** — from requirements planning, system architecture design, backend/frontend implementation, to server deployment and **SEO optimization**. Extensive production experience with **PHP** (Laravel as primary framework, with deep proficiency across CodeIgniter, Symfony, CakePHP, Yii) and **Node.js** (NestJS, ExpressJS) ecosystems. Proven ability to architect and deliver RESTful & GraphQL APIs, real-time communication systems via **WebSocket**, and microservices at scale. Strong focus on query optimization, caching strategies, high-availability architecture, and security best practices (OWASP, JWT, rate limiting).
-- **Tech Stack**: PHP (Laravel, CodeIgniter, Symfony, CakePHP, Yii), Node.js (NestJS, ExpressJS, Strapi, Koa), Python.
+- **Tech Stack**: PHP — 7 years (Laravel, CodeIgniter, Symfony, CakePHP, Yii), Node.js — 4 years (NestJS, ExpressJS, Strapi, Koa), Python — 2 years.
 - **Databases**: MySQL, MariaDB, PostgreSQL, MongoDB, SQLite, Redis, Memcached.
 
 **CMS, E-commerce & Odoo Enterprise**
