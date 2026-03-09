@@ -2,7 +2,7 @@
 
 ### Backend Developer
 
-Cua Lo, Nghe An, Vietnam | khoazero123@gmail.com | +84 963 212 280
+Nghe An, Vietnam | khoazero123@gmail.com | +84 963 212 280
 [github.com/khoazero123](https://github.com/khoazero123) | [linkedin.com/in/khoazero123](https://www.linkedin.com/in/khoazero123) | 1994
 
 ---
