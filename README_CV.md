@@ -1,6 +1,6 @@
 # KHOA VO
 
-### Backend Developer
+### Senior Backend Developer
 
 Nghe An, Vietnam | khoazero123@gmail.com | +84 963 212 280
 [github.com/khoazero123](https://github.com/khoazero123) | [linkedin.com/in/khoazero123](https://www.linkedin.com/in/khoazero123) | 1994
@@ -54,7 +54,7 @@ System Security & Hardening · Workflow Automation · Real-time Systems (WebSock
 - **Infrastructure**: Linux (Ubuntu, CentOS), Proxmox VE, Synology NAS, Mikrotik Routers
 - **CMS & E-commerce**: WordPress/WooCommerce, Magento 1 & 2, Shopify, Odoo (16/17/18)
 - **Automation & AI**: n8n (custom node development, self-hosting), Dify.ai, OpenAI/LLMs
-- **Frontend** *(supporting)*: ReactJS, Vue.js/Nuxt.js, React Native
+- **Frontend**: ReactJS, Vue.js/Nuxt.js, React Native
 
 ---
 
