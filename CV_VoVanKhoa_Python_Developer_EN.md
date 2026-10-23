@@ -10,7 +10,7 @@ Cua Lo, Nghe An, Vietnam · +84 963 212 280 · khoazero123@gmail.com
 
 ## Profile
 
-Software engineer with 9+ years of production development, currently focused on **Python, Odoo ERP and AI-driven systems**. I build custom Odoo 16/17/18 modules, LLM chatbots and AI agents, RAG pipelines, and n8n/Dify automations — and I ship everything containerised with Docker and CI/CD. Comfortable owning a system end-to-end: application code, database, Linux server, and network.
+Software engineer with 9+ years of production development, currently focused on **Python, Odoo ERP and AI-driven systems**. I build custom Odoo 16/17/18 modules, LLM chatbots and AI agents, RAG pipelines, and n8n/Dify automations — and I ship everything containerised with Docker and CI/CD. Comfortable building a system end-to-end: application code, database, Linux server, and network.
 
 ---
 

@@ -10,7 +10,7 @@ Cửa Lò, Nghệ An · 0963 212 280 · khoazero123@gmail.com
 
 ## Giới thiệu
 
-Kỹ sư phần mềm với hơn 9 năm phát triển phần mềm thực tế, hiện tập trung vào **Python, Odoo ERP và các hệ thống ứng dụng AI**. Tôi xây dựng addon Odoo 16/17/18, chatbot và AI agent dùng LLM, pipeline RAG, cùng các luồng tự động hoá n8n/Dify — và luôn triển khai bằng Docker kèm CI/CD. Có thể nhận trọn một hệ thống từ đầu đến cuối: code ứng dụng, cơ sở dữ liệu, server Linux và hạ tầng mạng.
+Kỹ sư phần mềm với hơn 9 năm phát triển phần mềm thực tế, hiện tập trung vào **Python, Odoo ERP và các hệ thống ứng dụng AI**. Tôi xây dựng addon Odoo 16/17/18, chatbot và AI agent dùng LLM, pipeline RAG, cùng các luồng tự động hoá n8n/Dify — và luôn triển khai bằng Docker kèm CI/CD. Có thể xây dựng một hệ thống từ đầu đến cuối: code ứng dụng, cơ sở dữ liệu, server Linux và hạ tầng mạng.
 
 ---
 
