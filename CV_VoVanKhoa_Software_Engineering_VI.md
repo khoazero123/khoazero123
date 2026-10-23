@@ -38,7 +38,7 @@ Kỹ sư phần mềm với hơn 9 năm phát triển phần mềm thực tế, 
 
 ## Kinh nghiệm làm việc
 
-### FGC Techlution — Software Engineer + AI Agent
+### FGC Techlution — Full Stack Developer + AI Agent
 
 `02/2021 – hiện tại`
 

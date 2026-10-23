@@ -38,7 +38,7 @@ Software engineer with 9+ years of hands-on product development, currently focus
 
 ## Experience
 
-### FGC Techlution — Software Engineer + AI Agent
+### FGC Techlution — Full Stack Developer + AI Agent
 
 `02/2021 – Present`
 
