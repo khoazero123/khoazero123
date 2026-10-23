@@ -112,4 +112,4 @@ Có học phần C#/.NET, lập trình hướng đối tượng, cơ sở dữ l
 
 ## Ngoại ngữ
 
-**Tiếng Việt** — bản ngữ · **Tiếng Anh** — đọc tốt tài liệu kỹ thuật, trao đổi qua chat thoải mái
+**Tiếng Việt** — bản ngữ · **Tiếng Anh** — đọc tốt tài liệu kỹ thuật, trao đổi qua chat/email tốt

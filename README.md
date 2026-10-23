@@ -112,4 +112,4 @@ Coursework included C#/.NET and object-oriented programming, databases and web d
 
 ## Languages
 
-**Vietnamese** — native · **English** — reads technical documentation confidently, comfortable in written chat
+**Vietnamese** — native · **English** — reads technical documentation confidently, good at written communication (chat/email)
