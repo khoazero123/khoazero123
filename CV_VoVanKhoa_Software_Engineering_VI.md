@@ -38,7 +38,7 @@ Kỹ sư phần mềm với hơn 9 năm phát triển phần mềm thực tế, 
 
 ## Kinh nghiệm làm việc
 
-### FGC Techlution — Software Engineer (Python · Odoo · AI Automation)
+### FGC Techlution — Software Engineer + AI Agent
 
 `02/2021 – hiện tại`
 

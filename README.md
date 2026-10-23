@@ -38,7 +38,7 @@ Software engineer with 9+ years of hands-on product development, currently focus
 
 ## Experience
 
-### FGC Techlution — Software Engineer (Python · Odoo · AI Automation)
+### FGC Techlution — Software Engineer + AI Agent
 
 `02/2021 – Present`
 
