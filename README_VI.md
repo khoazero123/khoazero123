@@ -2,7 +2,7 @@
 
 # VÕ VĂN KHOA
 
-### Backend Developer · Python · Odoo · AI Automation
+### Software Engineering · Python · Odoo · AI Automation
 
 📍 Cửa Lò, Nghệ An · 🎂 1994 · 📞 0963 212 280 · ✉️ khoazero123@gmail.com
 
