@@ -1,114 +1,113 @@
-<h1 align="center">Xin chào, mình là Khoa Võ 👋</h1>
+<p class="lang-switch" align="right"><a href="README.md">English</a></p>
 
-<h3 align="center">Chuyên gia Backend & DevOps (Senior Backend Engineer)</h3>
+# VÕ VĂN KHOA
 
-<p align="center">
-  <a href="README.md">English</a>
-</p>
+### Backend Developer · Python · Odoo · AI Automation
 
-<p align="center">
-  <i>Kỹ sư Backend (Senior Backend Engineer) với nền tảng vững chắc trong việc thiết kế các hệ thống có khả năng chịu tải cao. Sở trường cốt lõi tập trung vào <b>PHP / Node.js</b>, quản trị máy chủ <b>Linux</b> chuyên sâu, triển khai hạ tầng ảo hóa với <b>Docker</b>, tự động hóa quy trình phức tạp thông qua <b>n8n</b>, và xây dựng các trợ lý ảo <b>AI Chatbots</b> thông minh. Luôn đặt <b>tư duy bảo mật lên hàng đầu</b> — chủ động rà soát mọi lỗ hổng tiềm tàng và áp dụng các tiêu chuẩn bảo mật tốt nhất trong mọi giai đoạn phát triển. Đam mê tận dụng bộ kỹ năng cốt lõi này để phát triển và vận hành các sản phẩm công nghệ đột phá từ con số không.</i>
-</p>
+Cửa Lò, Nghệ An · 0963 212 280 · khoazero123@gmail.com
+
+[github.com/khoazero123](https://github.com/khoazero123) · [linkedin.com/in/khoazero123](https://www.linkedin.com/in/khoazero123)
 
 ---
 
-### 💼 Kinh Nghiệm Làm Việc
+## Giới thiệu
 
-**Web Developer** | *FGC Techlution (hợp tác với Sydney Ecommerce — B2B E-Commerce Solutions Pty Ltd, Úc)* | `02/2021 - Present` *và* `05/2017 - 07/2020`
-- Phát triển và bảo trì các ứng dụng web với khả năng mở rộng cao sử dụng PHP (Laravel, WordPress, Magento 1 & 2).
-- Xây dựng và tùy chỉnh các plugin/extension cho hệ thống WordPress và Magento.
-- Tích hợp giao diện Frontend và xây dựng ứng dụng di động đa nền tảng bằng React Native.
-- Tự cấu hình, cài đặt và vận hành các máy chủ web CentOS/Ubuntu trên môi trường Virtual Private Servers.
-- Đào tạo, quản lý và định hướng chuyên môn cho các thực tập sinh phần mềm.
-
-**Backend Developer** | *NTQ Solution (Hà Nội, Việt Nam)* | `09/2020 - 02/2021`
-- Bảo trì hệ sinh thái ứng dụng chat sử dụng framework Rocket.Chat, bao gồm build app trên macOS, Windows và ứng dụng di động.
-- Phát triển các chức năng tùy chỉnh (custom functions) và mở rộng kiến trúc cho Rocket.Chat.
-- Phụ trách hỗ trợ, đào tạo và định hướng cho các Junior Developers - Interns làm quen với các standard tốt nhất.
+Kỹ sư phần mềm với hơn 9 năm phát triển phần mềm thực tế, hiện tập trung vào **Python, Odoo ERP và các hệ thống ứng dụng AI**. Tôi xây dựng addon Odoo 16/17/18, chatbot và AI agent dùng LLM, pipeline RAG, cùng các luồng tự động hoá n8n/Dify — và luôn triển khai bằng Docker kèm CI/CD. Có thể xây dựng một hệ thống từ đầu đến cuối: code ứng dụng, cơ sở dữ liệu, server Linux và hạ tầng mạng.
 
 ---
 
-### 🛠️ Kỹ Năng & Công Nghệ (Skills & Tech Stack)
+## Kỹ năng chính
 
-Tôi là một kỹ sư phần mềm luôn hướng đến kết quả và khả năng thích ứng cao, tận dụng nền tảng công nghệ chuyên sâu để xây dựng các hệ thống mạnh mẽ và dễ dàng mở rộng:
+**Python & ERP** — Odoo 16/17/18 (ORM, view XML/QWeb, cron, module tuỳ chỉnh), tích hợp API.
 
-**Phát triển Backend & Server-side API**
-- **Năng lực (Capabilities)**: Phát triển web Full-stack với khả năng **quản lý toàn bộ vòng đời phát triển website** — từ lập kế hoạch yêu cầu, thiết kế kiến trúc hệ thống, triển khai backend/frontend, cho đến deploy lên server và **tối ưu hóa SEO**. Kinh nghiệm thực chiến dày dặn với hệ sinh thái **PHP** (Laravel là framework chủ lực, cùng khả năng vận dụng thuần thục CodeIgniter, Symfony, CakePHP, Yii) và **Node.js** (NestJS, ExpressJS). Có năng lực thiết kế và triển khai kiến trúc API RESTful & GraphQL, hệ thống giao tiếp thời gian thực qua **WebSocket**, và Microservices ở quy mô lớn. Chú trọng tối ưu hóa truy vấn (query optimization), chiến lược caching, kiến trúc High-Availability, và các tiêu chuẩn bảo mật khắt khe (OWASP, JWT, rate limiting).
-- **Công nghệ (Tech Stack)**: PHP — 7 năm (Laravel, CodeIgniter, Symfony, CakePHP, Yii), Node.js — 4 năm (NestJS, ExpressJS, Strapi, Koa), Python — 2 năm.
-- **Hệ cơ sở dữ liệu**: MySQL, MariaDB, PostgreSQL, MongoDB, SQLite, Redis, Memcached.
+**AI & Tự động hoá** — tích hợp LLM API, AI agent, RAG, chatbot, n8n (self-hosted, custom node), Dify, prompt engineering.
 
-**CMS, E-commerce & Odoo Enterprise**
-- **Năng lực (Capabilities)**: Có khả năng phát triển giải pháp cho **mọi lĩnh vực kinh doanh** theo yêu cầu. Kinh nghiệm dày dặn trong việc xây dựng **plugin, module, và Shopify app tùy chỉnh** cho WordPress/WooCommerce, Magento 1 & 2, Shopify, và Odoo. Đặc biệt đã phát triển nhiều **plugin tích hợp cổng thanh toán và vận chuyển/logistics dành riêng cho thị trường Úc (Australia)**. Triển khai và phát triển addon Odoo cấp doanh nghiệp.
-- **Công nghệ (Tech Stack)**: Odoo (16/17/18), WordPress / WooCommerce, Magento 1 & 2, Shopify (App Development), Strapi, Nestjs.
+**Backend** — Node.js/TypeScript (NestJS, Express, Strapi), PHP (Laravel, Symfony), REST, GraphQL, WebSocket.
 
-**DevOps, Quản trị hệ thống & Mạng (Networking)**
-- **Năng lực (Capabilities)**: Kinh nghiệm thực chiến trong **thiết kế CI/CD pipeline** cho cả website lẫn phần mềm sử dụng **GitHub Actions**, **GitLab CI/CD Pipelines**, Jenkins, và Drone.io — tự động hóa toàn bộ chu trình phân phối bao gồm review code tự động, linting, unit testing, **build Docker image**, và **deploy tự động lên môi trường dev/staging/production**. Quản lý toàn diện hạ tầng máy chủ vật lý (on-premise) và đám mây (Cloud) bao gồm provisioning máy chủ, cấu hình reverse proxy (Traefik, NGINX), cân bằng tải (Load Balancing), tự động hóa SSL/TLS, và quản lý định tuyến mạng nâng cao.
-- **Đám mây & Phân phối toàn cầu (Cloud/CDN)**: AWS (EC2, S3), DigitalOcean, Vultr, nền tảng Cloudflare (Cache Rules, Workers, Tunnels).
-- **Phần cứng & Mạng máy tính**: Hệ thống Máy chủ DELL Doanh Nghiệp (R730XD, R640), Quản trị từ xa qua iDRAC, Ảo hóa Proxmox VE, Giải pháp lưu trữ Synology NAS, bảo vệ dữ liệu bằng RAID. Mạng nội bộ tốc độ cao 2.5Gb/10Gb LAN, thiết bị định tuyến Mikrotik (NAT, firewall, VLAN, Multi-WAN ISP).
-- **Bộ công cụ DevOps**: Hệ điều hành Linux, Docker, Portainer, Traefik, NGINX, Apache, CI/CD Jenkins, GitLab CI, GitHub Actions, Drone.io.
+**E-commerce & Thanh toán** — Magento 1 & 2, WordPress/WooCommerce, Shopify apps, tích hợp cổng thanh toán và vận chuyển.
 
-**Hệ sinh thái Tích hợp, Trí tuệ tự tạo (AI) & Tự động hóa**
-- **Năng lực (Capabilities)**: Thiết kế các luồng tự động hóa (workflow) kiến trúc phức tạp để tích hợp đa hệ thống, cào dữ liệu (web scraping) và tối ưu hóa các quy trình nghiệp vụ. Lập trình các n8n node tùy biến. Có kinh nghiệm triển khai máy chủ AI tự quản lý (Self-hosting) và phát triển các trợ lý ảo (Chatbots) thông minh, có hiểu biết ngữ cảnh.
-- **Công nghệ (Tech Stack)**: Hệ thống n8n (integration, automation, self-hosting chuyên biệt), Hệ thống Dify.ai (self-hosting, lập trình chatbot AI), Tích hợp OpenAI/Mô hình ngôn ngữ lớn LLMs.
+**DevOps & Hạ tầng** — Docker & Docker Compose (mọi dịch vụ chạy container), GitHub Actions, GitLab CI, Jenkins, Linux (Ubuntu/CentOS), Proxmox VE (tạo VM, backup), NGINX, Traefik, tự động hoá SSL, định tuyến Mikrotik, VLAN, multi-WAN.
 
-**Hệ sinh thái Nhà Thông Minh (Smart Home) & Mã nguồn IoT**
-- **Năng lực (Capabilities)**: Thiết kế và triển khai thiết lập hệ sinh thái nhà thông minh cục bộ (local-first) chú trọng cao tới tính riêng tư và độ tin cậy bằng cách loại bỏ triệt để sự phụ thuộc vào máy chủ ảo (cloud) của bên thứ ba.
-- **Công nghệ (Tech Stack)**: Nền tảng điều khiển Home Assistant, Lập trình bảng mạch Arduino, Sóng Zigbee, phần cứng Raspberry Pi.
+**Dữ liệu** — PostgreSQL, MySQL/MariaDB, MongoDB, Redis, SQLite.
 
-**Phát triển Frontend**
-- **Công nghệ (Tech Stack)**: ReactJS, Vue.js / Nuxt.js, Thư viện Ant Design, TanStack Query.
+**Frontend** — React, Vue/Nuxt, React Native.
 
-**Phát triển Mobile**
-- **Năng lực (Capabilities)**: Đã phát triển ứng dụng di động đa nền tảng bằng **React Native** và **đăng tải thành công ứng dụng lên Google Play Store**. Dù không phải chuyên gia mobile chuyên sâu, nhưng hoàn toàn tự tin xử lý độc lập mọi task liên quan đến phát triển ứng dụng di động.
-- **Công nghệ (Tech Stack)**: React Native, Android Studio, Expo.
+*Đã từng làm việc với: **C#/.NET** (học phần khi còn đi học) và **C/C++** (firmware ESP8266/ESP32) — ở mức biết và làm được, không phải ngôn ngữ chính.*
 
 ---
 
-### 🎓 Học Vấn
+## Kinh nghiệm làm việc
 
-**Cao đẳng Thực hành FPT Polytechnic Hà Nội** | `2013 - 2016`
-- **Chuyên ngành**: [Ứng dụng phần mềm](https://caodang.fpt.edu.vn/nganh-hoc/ung-dung-phan-mem).
-- **Xếp loại tốt nghiệp**: Rất Tốt.
+### FGC Techlution — Software Engineer (Python · Odoo · AI Automation)
+
+`02/2021 – hiện tại`
+
+- Phát triển và duy trì các **addon Odoo 16/17/18 nội bộ** được nhân viên công ty sử dụng hằng ngày: model tuỳ chỉnh, view QWeb, phân quyền, scheduled action và báo cáo.
+- Xây dựng **addon tích hợp Odoo ↔ ClickUp** cho phép nhân viên report time ngay trong Odoo và tự động đẩy lên task ClickUp, bỏ hẳn việc nhập liệu trùng lặp.
+- Triển khai các **giải pháp AI** cho nội bộ và khách hàng: chatbot, AI agent, workflow n8n self-hosted và ứng dụng Dify, tích hợp LLM API. Đây cũng là giai đoạn tôi bắt đầu và gắn bó với mảng AI.
+
+### NTQ Solution — Backend Developer
+
+`09/2020 – 02/2021` · Hà Nội
+
+- Duy trì và mở rộng nền tảng liên lạc dựa trên **Rocket.Chat**, gồm tính năng backend tuỳ chỉnh và build cho macOS, Windows và mobile.
+- Hướng dẫn lập trình viên junior về chất lượng code và thực hành backend.
+
+### FGC Techlution — Web Developer
+
+`05/2017 – 07/2020`
+
+- Phát triển **hơn 10 extension WordPress, Magento 1/2 và Shopify** — cổng thanh toán, tích hợp vận chuyển — cho nền tảng thương mại điện tử B2B thị trường Úc.
+- Phát triển và duy trì backend nền tảng bằng **PHP (Laravel)** và **Node.js**.
+- Quản lý vòng đời máy chủ: dựng VPS (CentOS/Ubuntu), reverse proxy NGINX/Traefik, tự động hoá SSL và cân bằng tải.
+- Hướng dẫn thực tập sinh và xây dựng quy trình review code cho nhóm.
 
 ---
 
-### 📈 Thống Kê GitHub Cá Nhân (GitHub Profile Stats)
+## Dự án tiêu biểu
 
-<p align="center">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khoazero123&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khoazero123&theme=radical"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy-1-smoky.vercel.app/?username=khoazero123&theme=onedark"/>
-</p>
+### AI Chatbot (RAG): tra cứu mã HS code & văn bản luật — *Python, n8n, PGvector/Qdrant, OCR*
+
+Trợ lý cho lĩnh vực xuất nhập khẩu, trả lời hai nhóm câu hỏi: mặt hàng này có **mã HS** nào và **văn bản luật** quy định ra sao. Hệ thống cào dữ liệu văn bản luật do nhà nước ban hành, **OCR** những file PDF dạng scan, rồi chia nhỏ (chunk) và **nhúng vào vector DB (PGvector / Qdrant)**. Chatbot dựng trên **n8n**, có bước **phân loại câu hỏi để điều phối đến AI agent phù hợp** — tra mã HS hay tra văn bản luật — thay vì dùng một prompt chung cho mọi câu.
+
+### Odoo ↔ ClickUp Time Reporting — *Python, Odoo 16/17/18*
+
+Addon nội bộ kết nối timesheet Odoo với ClickUp. Nhân viên report time trong Odoo; module ánh xạ user Odoo sang member ClickUp, đẩy time entry qua ClickUp REST API và tự retry khi đồng bộ lỗi theo cron. Sử dụng Odoo ORM, view QWeb, rule phân quyền và logging có cấu trúc.
+
+### giaoanxanh.com — *Strapi (Node.js), Nuxt.js, Docker*
+
+Website chia sẻ tài liệu cho giáo viên và học sinh. Nội dung quản lý bằng **Strapi** ở backend, hiển thị qua frontend **Nuxt.js**, kèm một **microservice chuyển DOCX sang PDF** để tài liệu, giáo án tải lên được xem trực tiếp trên trình duyệt thay vì phải tải về. Toàn bộ dịch vụ chạy bằng Docker.
+
+### Thư viện mã nguồn mở
+
+- [n8n-nodes-synology](https://www.npmjs.com/package/n8n-nodes-synology) — node cộng đồng n8n cho NAS Synology (npm).
+- [fgct/securepay-api](https://packagist.org/packages/fgct/securepay-api) — thư viện client API cổng thanh toán SecurePay (Packagist).
 
 ---
 
-### 📫 Thông Tin Cá Nhân & Liên Hệ
+## Đóng góp mã nguồn mở
 
-- **Năm sinh**: 1994
-- **Tình trạng hôn nhân**: Đã kết hôn
-- **Địa chỉ hiện tại**: Nghệ An, Việt Nam.
-- **Email**: [khoazero123@gmail.com](mailto:khoazero123@gmail.com)
-- **Điện thoại di động**: +84 963 212 280
-- *Tôi luôn chủ động tìm kiếm các cơ hội việc làm toàn thời gian (Full-time) ở vị trí Kỹ sư Backend (Backend Engineer) hoặc Chuyên gia DevOps (DevOps Specialist) tại các công ty Product hoặc công ty Công nghệ năng động.*
+- **n8n** — [#15437](https://github.com/n8n-io/n8n/pull/15437): bổ sung các filter còn thiếu (name, projectId, pinned data, limit, cursor) cho operation `Get Many` của node.
+- **Dify** — [#21582](https://github.com/langgenius/dify/pull/21582): API validate model provider trong core.
+- **Dify official plugins** — [#1186](https://github.com/langgenius/dify-official-plugins/pull/1186): viết plugin **Gemini text embeddings**.
+- **OmniRoute** — [#9272](https://github.com/cheaper-inference/OmniRoute/pull/9272): webhook wizard ở dashboard, hỗ trợ add/edit và không phải nhập lại secret.
+- **db-backup** — [#141](https://github.com/nfrastack/db-backup/pull/141): sửa xử lý kiểu dữ liệu khi restore PostgreSQL.
+- **libreoffice-convert** — [#64](https://github.com/elwerene/libreoffice-convert/pull/64): nhận diện binary LibreOffice khi cài bằng snap.
+- **Nuxt Google AdSense** — [#120](https://github.com/nuxt-modules/google-adsense/pull/120): hỗ trợ `publicRuntimeConfig` để deploy bằng container.
+- **Fatzebra PHP-Library** — [#30](https://github.com/fatzebra/PHP-Library/pull/30): sửa lỗi reference & currency rỗng trong `token_authorization`.
 
-<p align="left">
-  <a href="mailto:khoazero123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-khoazero123%40gmail.com-1F222E?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/khoazero123">
-    <img src="https://img.shields.io/badge/GitHub-khoazero123-1F222E?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/khoazero123">
-    <img src="https://img.shields.io/badge/LinkedIn-Khoa_Vo-1F222E?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+---
 
-<p align="center">
-  <a title="khoazero123" href="https://github.com/khoazero123">
-    <img src="https://komarev.com/ghpvc/?username=khoazero123" alt="Profile views"/>
-  </a>
-</p>
+## Học vấn
+
+### Cao đẳng FPT Polytechnic Hà Nội
+
+`2013 – 2016` · Ứng dụng phần mềm · **Xếp loại: Giỏi**
+
+Có học phần C#/.NET, lập trình hướng đối tượng, cơ sở dữ liệu và phát triển web.
+
+---
+
+## Ngoại ngữ
+
+**Tiếng Việt** — bản ngữ · **Tiếng Anh** — đọc tốt tài liệu kỹ thuật, trao đổi qua chat thoải mái
