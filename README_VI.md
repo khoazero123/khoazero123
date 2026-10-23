@@ -45,6 +45,8 @@ Kỹ sư phần mềm với hơn 9 năm phát triển phần mềm thực tế, 
 - Phát triển và duy trì các **addon Odoo 16/17/18 nội bộ** được nhân viên công ty sử dụng hằng ngày: model tuỳ chỉnh, view QWeb, phân quyền, scheduled action và báo cáo.
 - Xây dựng **addon tích hợp Odoo ↔ ClickUp** cho phép nhân viên report time ngay trong Odoo và tự động đẩy lên task ClickUp, bỏ hẳn việc nhập liệu trùng lặp.
 - Triển khai các **giải pháp AI** cho nội bộ và khách hàng: chatbot, AI agent, workflow n8n self-hosted và ứng dụng Dify, tích hợp LLM API. Đây cũng là giai đoạn tôi bắt đầu và gắn bó với mảng AI.
+- Làm việc với các **site thương mại điện tử cho khách hàng Úc** trên Magento và WooCommerce: xây dựng theme, plugin thanh toán và vận chuyển.
+- **Đào tạo, hướng dẫn thực tập sinh và học việc.**
 
 ### NTQ Solution — Backend Developer
 
@@ -60,7 +62,7 @@ Kỹ sư phần mềm với hơn 9 năm phát triển phần mềm thực tế, 
 - Phát triển **hơn 10 extension WordPress, Magento 1/2 và Shopify** — cổng thanh toán, tích hợp vận chuyển — cho nền tảng thương mại điện tử B2B thị trường Úc.
 - Phát triển và duy trì backend nền tảng bằng **PHP (Laravel)** và **Node.js**.
 - Quản lý vòng đời máy chủ: dựng VPS (CentOS/Ubuntu), reverse proxy NGINX/Traefik, tự động hoá SSL và cân bằng tải.
-- Hướng dẫn thực tập sinh và xây dựng quy trình review code cho nhóm.
+- Xây dựng quy trình review code và coding convention cho nhóm.
 
 ---
 

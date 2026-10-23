@@ -45,6 +45,8 @@ Software engineer with 9+ years of production development, currently focused on 
 - Develop and maintain **internal Odoo 16/17/18 addons** used daily by company staff: custom models, QWeb views, access rights, scheduled actions and reporting.
 - Built the **Odoo ↔ ClickUp time-reporting integration**, letting employees log working time in Odoo and pushing it to ClickUp tasks automatically — removing duplicate manual reporting.
 - Deliver **AI solutions** for internal and customer use: chatbots, AI agents, self-hosted n8n workflows and Dify applications, integrated with LLM APIs. This is the period where my AI work began and became a core part of the job.
+- Maintain **e-commerce sites for Australian clients** on Magento and WooCommerce: build themes, payment and shipping plugins.
+- **Train and mentor interns and junior trainees.**
 
 ### NTQ Solution — Backend Developer
 
@@ -60,7 +62,7 @@ Software engineer with 9+ years of production development, currently focused on 
 - Built **10+ WordPress, Magento 1/2 and Shopify extensions** — payment gateways and shipping/logistics integrations — for an Australian B2B e-commerce platform.
 - Developed and maintained the platform's backend in **PHP (Laravel)** and **Node.js**.
 - Managed server lifecycle: VPS provisioning (CentOS/Ubuntu), NGINX/Traefik reverse proxy, SSL automation and load balancing.
-- Mentored software engineering interns and set up the team's code review process.
+- Set up the team's code review process and coding conventions.
 
 ---
 
