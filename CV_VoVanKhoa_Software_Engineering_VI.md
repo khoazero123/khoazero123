@@ -12,7 +12,7 @@
 
 ## Giới thiệu
 
-Kỹ sư phần mềm với hơn 9 năm phát triển phần mềm thực tế, hiện tập trung vào **backend developer, DevOps (CI/CD)** và **các hệ thống ứng dụng AI**. Tôi xây dựng backend service bằng Python/Node.js, chatbot và AI agent dùng LLM, pipeline RAG, cùng các luồng tự động hoá n8n/Dify; mọi dịch vụ chạy bằng Docker với pipeline CI/CD tự động hoá test và deploy. Có thể xây dựng một hệ thống từ đầu đến cuối: code ứng dụng, cơ sở dữ liệu, server Linux và hạ tầng mạng.
+Kỹ sư phần mềm với hơn 9 năm phát triển phần mềm thực tế, hiện tập trung vào **Backend Developer, DevOps (CI/CD)** và **các hệ thống ứng dụng AI**. Tôi xây dựng backend service bằng Python/Node.js, chatbot và AI agent dùng LLM, pipeline RAG, cùng các luồng tự động hoá n8n/Dify; mọi dịch vụ chạy bằng Docker với pipeline CI/CD tự động hoá test và deploy. Có thể xây dựng một hệ thống từ đầu đến cuối: code ứng dụng, cơ sở dữ liệu, server Linux và hạ tầng mạng.
 
 ---
 

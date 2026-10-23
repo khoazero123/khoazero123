@@ -12,7 +12,7 @@
 
 ## Profile
 
-Software engineer with 9+ years of hands-on product development, currently focused on **backend development, DevOps (CI/CD)** and **AI-driven systems**. I build backend services in Python and Node.js, LLM chatbots and AI agents, RAG pipelines and n8n/Dify automations — all shipped in Docker with CI/CD pipelines that automate testing and deployment. Comfortable building a system end-to-end: application code, database, Linux server and network infrastructure.
+Software engineer with 9+ years of hands-on product development, currently focused on **Backend development, DevOps (CI/CD)** and **AI-driven systems**. I build backend services in Python and Node.js, LLM chatbots and AI agents, RAG pipelines and n8n/Dify automations — all shipped in Docker with CI/CD pipelines that automate testing and deployment. Comfortable building a system end-to-end: application code, database, Linux server and network infrastructure.
 
 ---
 
