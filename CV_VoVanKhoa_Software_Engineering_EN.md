@@ -2,7 +2,7 @@
 
 # VÕ VĂN KHOA
 
-### Software Engineering · Python · AI Automation
+### Software Engineering · AI Automation
 
 📍 Cua Lo, Nghe An, Vietnam · 🎂 1994 · 📞 +84 963 212 280 · ✉️ khoazero123@gmail.com
 
