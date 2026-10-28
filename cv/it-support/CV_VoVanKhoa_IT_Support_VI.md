@@ -10,7 +10,7 @@
 
 ## Giới thiệu
 
-Kỹ sư CNTT với hơn 9 năm làm việc thực tế, hiện tập trung vào **hạ tầng hệ thống, networking và hỗ trợ kỹ thuật**. Tôi am hiểu linh kiện máy tính và build được PC từ đầu; cài đặt, cấu hình nhiều hệ điều hành (Windows Server, Ubuntu/CentOS, Proxmox VE); xử lý các vấn đề mạng như **DNS, TCP/IP, firewall, NAT port, PPPoE, Mikrotik, VLAN**. Tôi cũng trực tiếp vận hành server **DELL R730XD và R640** chạy Windows Server và Proxmox. Có nền tảng lập trình nên tự động hoá được công việc lặp lại và đọc log hệ thống nhanh.
+Kỹ sư CNTT với **hơn 9 năm kinh nghiệm lập trình phần mềm** và **4 năm làm việc trực tiếp với hạ tầng IT**, hiện tập trung vào **hạ tầng hệ thống, networking và hỗ trợ kỹ thuật**. Tôi am hiểu linh kiện máy tính và build được PC từ đầu; cài đặt, cấu hình nhiều hệ điều hành (Windows Server, Ubuntu/CentOS, Proxmox VE); xử lý các vấn đề mạng như **DNS, TCP/IP, firewall, NAT port, PPPoE, Mikrotik, VLAN**. Tôi cũng trực tiếp vận hành server **DELL R730XD và R640** chạy Windows Server và Proxmox. Có nền tảng lập trình nên tự động hoá được công việc lặp lại và đọc log hệ thống nhanh.
 
 ---
 
@@ -63,14 +63,6 @@ Kỹ sư CNTT với hơn 9 năm làm việc thực tế, hiện tập trung vào
 ### Hạ tầng on-premise và ảo hoá — *DELL, Proxmox VE, Mikrotik*
 
 Dựng và vận hành cụm server vật lý DELL R730XD/R640: cấu hình RAID, cài Proxmox VE, tạo máy ảo cho từng dịch vụ, đặt lịch backup và giám sát tài nguyên. Toàn bộ hệ thống đi qua Mikrotik với NAT, firewall, phân VLAN và multi-WAN để tách luồng quản trị khỏi luồng dịch vụ.
-
-### Build PC và cài đặt hệ điều hành
-
-Lắp ráp máy từ linh kiện, kiểm tra tương thích, cài Windows và Linux, cập nhật driver, kiểm tra nhiệt độ và độ ổn định trước khi bàn giao. Xử lý các lỗi thường gặp: không nhận ổ, lỗi RAM, máy không lên nguồn, driver thiếu.
-
-### giaoanxanh.com — *Strapi, Nuxt.js, Docker*
-
-Website chia sẻ tài liệu cho giáo viên và học sinh, chạy toàn bộ bằng Docker trên server tự quản trị, kèm microservice chuyển DOCX sang PDF để xem tài liệu trực tiếp trên trình duyệt.
 
 ### Homelab và tự động hoá — *Synology NAS, Home Assistant, n8n*
 
