@@ -1,0 +1,120 @@
+@page {
+  size: A4;
+  margin: 12mm 15mm 12mm 15mm;
+  @bottom-center {
+    content: "Võ Văn Khoa · Software Engineering · " counter(page) "/" counter(pages);
+    font-family: "DejaVu Sans", sans-serif;
+    font-size: 7.5pt;
+    color: #8a94a6;
+  }
+}
+
+html { font-size: 10pt; }
+
+body {
+  font-family: "DejaVu Sans", "Liberation Sans", sans-serif;
+  color: #1f2733;
+  line-height: 1.37;
+  margin: 0;
+  font-size: 9.2pt;
+}
+
+h1 {
+  font-size: 21pt;
+  letter-spacing: 0.06em;
+  margin: 0 0 1mm 0;
+  color: #123a63;
+  font-weight: 700;
+}
+
+h1 + h3 {
+  font-size: 10.2pt;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: #2f6fa8;
+  margin: 0 0 2.4mm 0;
+}
+
+h1 + h3 + p {
+  margin: 0 0 1mm 0;
+  font-size: 8.9pt;
+  color: #33404f;
+}
+
+h1 + h3 + p + p {
+  margin: 0;
+  font-size: 8.9pt;
+}
+
+h1 + h3 + p + p a,
+p a {
+  color: #1b5f9e;
+  text-decoration: none;
+}
+
+hr {
+  border: 0;
+  border-top: 1.6pt solid #123a63;
+  margin: 3.5mm 0 3mm 0;
+}
+
+h2 {
+  font-size: 9.6pt;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: #123a63;
+  margin: 3.4mm 0 1.5mm 0;
+  padding-bottom: 1.1mm;
+  border-bottom: 0.6pt solid #c3d2e3;
+  page-break-after: avoid;
+}
+
+h3 {
+  font-size: 9.8pt;
+  margin: 2.4mm 0 0.5mm 0;
+  color: #16324f;
+  page-break-after: avoid;
+}
+
+h2 + h3 { margin-top: 1.5mm; }
+
+p { margin: 0 0 1.5mm 0; }
+
+ul {
+  margin: 0.8mm 0 1.6mm 0;
+  padding-left: 4.6mm;
+}
+
+li {
+  margin: 0 0 0.65mm 0;
+  text-align: justify;
+}
+
+li::marker { color: #2f6fa8; }
+
+strong { color: #101c2b; }
+
+em { color: #4a5a6c; font-style: italic; }
+
+/* date lines rendered as inline code blocks in markdown */
+code {
+  font-family: "DejaVu Sans", sans-serif;
+  font-size: 8.4pt;
+  color: #48607a;
+  background: #eef3f9;
+  border-radius: 2pt;
+  padding: 0.5mm 1.6mm;
+}
+
+h3 + p code:first-child { background: none; padding-left: 0; }
+
+a { color: #1b5f9e; }
+
+h2, h3 { break-inside: avoid; }
+li, p { orphans: 2; widows: 2; }
+
+/* pandoc metadata title block is hidden: the CV supplies its own header */
+#title-block-header { display: none; }
+
+/* language toggle: visible on GitHub README, hidden in the PDF */
+.lang-switch { display: none; }

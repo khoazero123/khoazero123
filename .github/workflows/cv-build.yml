@@ -1,0 +1,52 @@
+name: Build CV PDFs
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "cv/**/*.md"
+      - "cv/style.css"
+      - "cv/build.sh"
+      - ".github/workflows/cv-build.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cv-build
+  cancel-in-progress: true
+
+jobs:
+  build:
+    # the bot commit itself carries [skip cv], so this never loops
+    if: ${{ !contains(github.event.head_commit.message, '[skip cv]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install toolchain
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq \
+            pandoc \
+            fonts-dejavu-core \
+            fonts-noto-color-emoji \
+            libpango-1.0-0 libpangoft2-1.0-0 libharfbuzz-subset0
+          python3 -m pip install --user --quiet weasyprint
+
+      - name: Build PDFs
+        run: bash cv/build.sh
+
+      - name: Commit rebuilt PDFs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add 'cv/**/*.pdf'
+          if git diff --cached --quiet; then
+            echo "No PDF changes to commit"
+            exit 0
+          fi
+          git commit -m "chore(cv): rebuild PDFs [skip cv]"
+          git push

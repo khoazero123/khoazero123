@@ -1,3 +1,5 @@
+<p class="lang-switch" align="right"><a href="CV_VoVanKhoa_Senior_PHP_VI.md">Tiếng Việt</a></p>
+
 # VÕ VĂN KHOA
 
 ### Senior PHP Developer · Laravel · E-commerce & API

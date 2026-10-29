@@ -1,4 +1,4 @@
-<p class="lang-switch" align="right"><a href="README.md">English</a></p>
+<p class="lang-switch" align="right"><a href="CV_VoVanKhoa_Software_Engineering_EN.md">English</a></p>
 
 # VÕ VĂN KHOA
 
