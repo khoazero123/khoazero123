@@ -24,7 +24,7 @@ Software engineer with 9+ years of hands-on product development, currently focus
 
 **Backend** — Node.js/TypeScript (NestJS, Express, Strapi), PHP (Laravel, Symfony), REST, GraphQL, WebSocket.
 
-**E-commerce & Payments** — Magento 1 & 2, WordPress/WooCommerce, Shopify apps, payment gateway & shipping integrations.
+**E-commerce & Payments** — Magento 1 & 2, WordPress/WooCommerce, Shopify apps and the **Shopify Admin API** (product, customer and order sync), payment gateway & shipping integrations.
 
 **DevOps & Infrastructure** — Docker & Docker Compose (every service containerised), GitHub Actions, GitLab CI, Jenkins, Linux (Ubuntu/CentOS), Proxmox VE (VM provisioning, backups), NGINX, Traefik, SSL automation, Mikrotik routing, VLAN, multi-WAN.
 
@@ -46,6 +46,7 @@ Software engineer with 9+ years of hands-on product development, currently focus
 - Built the **Odoo ↔ ClickUp time-reporting integration**, letting employees log working time in Odoo and pushing it to ClickUp tasks automatically — removing duplicate manual reporting.
 - Deliver **AI solutions** for internal and customer use: chatbots, AI agents, self-hosted n8n workflows and Dify applications, integrated with LLM APIs. This is the period where my AI work began and became a core part of the job.
 - Maintain **e-commerce sites for Australian clients** on Magento and WooCommerce: build themes, payment and shipping plugins.
+- Built **Shopify API integrations in live production**: sync products, customers and orders between Shopify and internal systems using the Admin REST API and webhooks, with rate-limit handling and retry on failure.
 - **Train and mentor interns and junior trainees.**
 
 ### NTQ Solution — Backend Developer
@@ -70,15 +71,19 @@ Software engineer with 9+ years of hands-on product development, currently focus
 
 ### AI Chatbot (RAG): Customs & HS-Code Assistant — *Python, n8n, PGvector/Qdrant, OCR*
 
-Domain assistant for import–export work, answering two kinds of questions: which **HS code** applies to a product, and what the **legal documents** actually say. A crawler collects newly issued state regulations, scanned PDFs go through **OCR**, and the text is chunked and **embedded into a vector database (PGvector / Qdrant)**. The chatbot is built on **n8n**, with a **question-classification step that routes each query to the appropriate AI agent** — HS-code lookup or legal-document lookup — instead of a single generic prompt.
+Answers two kinds of import–export questions: which **HS code** applies to a product, and what the **legal documents** say. Regulations are crawled, scanned PDFs go through **OCR**, and text is embedded into a **vector database (PGvector / Qdrant)**. Built on **n8n** with a **classification step routing each query to the right AI agent** rather than one generic prompt.
 
 ### Odoo ↔ ClickUp Time Reporting — *Python, Odoo 16/17/18*
 
 Internal addon that connects Odoo timesheets to ClickUp. Employees report time inside Odoo; the module maps Odoo users to ClickUp members, pushes time entries through the ClickUp REST API, and retries failed syncs on a cron schedule. Built with the Odoo ORM, QWeb views, access-right rules and structured logging.
 
+### Shopify ↔ internal system: product, customer and order sync — *Node.js, Shopify Admin API, PostgreSQL*
+
+Live production integration: consumes Shopify webhooks for new products and orders, writes normalised data into internal systems, and pushes stock levels and order status back. Handles Admin API **rate limits**, retry with backoff and reconciliation logs.
+
 ### giaoanxanh.com — *Strapi (Node.js), Nuxt.js, Docker*
 
-Document-sharing platform for teachers and students. Content is managed in **Strapi** on the backend and served by a **Nuxt.js** frontend, with a dedicated **microservice that converts DOCX to PDF** so uploaded lesson plans can be previewed and read online in the browser instead of being downloaded. All services run in Docker.
+Document-sharing platform for teachers and students: **Strapi** backend, **Nuxt.js** frontend, and a **microservice converting DOCX to PDF** so lesson plans can be read in the browser. All services run in Docker.
 
 ### Open-source packages
 
@@ -92,11 +97,7 @@ Document-sharing platform for teachers and students. Content is managed in **Str
 - **n8n** — [#15437](https://github.com/n8n-io/n8n/pull/15437): added the missing filters (name, projectId, pinned data, limit, cursor) to the node `Get Many` operation.
 - **Dify** — [#21582](https://github.com/langgenius/dify/pull/21582): model-provider validation API in core.
 - **Dify official plugins** — [#1186](https://github.com/langgenius/dify-official-plugins/pull/1186): implemented the **Gemini text embeddings** plugin.
-- **OmniRoute** — [#9272](https://github.com/cheaper-inference/OmniRoute/pull/9272): dashboard webhook wizard with add/edit modes and secret-safe edits.
-- **db-backup** — [#141](https://github.com/nfrastack/db-backup/pull/141): fixed PostgreSQL restore type handling.
-- **libreoffice-convert** — [#64](https://github.com/elwerene/libreoffice-convert/pull/64): LibreOffice binary detection under snap.
-- **Nuxt Google AdSense** — [#120](https://github.com/nuxt-modules/google-adsense/pull/120): `publicRuntimeConfig` support for container deployments.
-- **Fatzebra PHP-Library** — [#30](https://github.com/fatzebra/PHP-Library/pull/30): fixed empty reference & currency in `token_authorization`.
+- **Other merged fixes** — OmniRoute (webhook wizard), db-backup (PostgreSQL restore), libreoffice-convert (snap binary), Nuxt Google AdSense (runtime config), Fatzebra PHP-Library (payment SDK).
 
 ---
 

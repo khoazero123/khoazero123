@@ -24,7 +24,7 @@ Kỹ sư phần mềm với hơn 9 năm phát triển phần mềm thực tế, 
 
 **Backend** — Node.js/TypeScript (NestJS, Express, Strapi), PHP (Laravel, Symfony), REST, GraphQL, WebSocket.
 
-**E-commerce & Thanh toán** — Magento 1 & 2, WordPress/WooCommerce, Shopify apps, tích hợp cổng thanh toán và vận chuyển.
+**E-commerce & Thanh toán** — Magento 1 & 2, WordPress/WooCommerce, Shopify apps và **Shopify Admin API** (đồng bộ sản phẩm, khách hàng, đơn hàng), tích hợp cổng thanh toán và vận chuyển.
 
 **DevOps & Hạ tầng** — Docker & Docker Compose (mọi dịch vụ chạy container), GitHub Actions, GitLab CI, Jenkins, Linux (Ubuntu/CentOS), Proxmox VE (tạo VM, backup), NGINX, Traefik, tự động hoá SSL, định tuyến Mikrotik, VLAN, multi-WAN.
 
@@ -46,6 +46,7 @@ Kỹ sư phần mềm với hơn 9 năm phát triển phần mềm thực tế, 
 - Xây dựng **addon tích hợp Odoo ↔ ClickUp** cho phép nhân viên report time ngay trong Odoo và tự động đẩy lên task ClickUp, bỏ hẳn việc nhập liệu trùng lặp.
 - Triển khai các **giải pháp AI** cho nội bộ và khách hàng: chatbot, AI agent, workflow n8n self-hosted và ứng dụng Dify, tích hợp LLM API. Đây cũng là giai đoạn tôi bắt đầu và gắn bó với mảng AI.
 - Làm việc với các **site thương mại điện tử cho khách hàng Úc** trên Magento và WooCommerce: xây dựng theme, plugin thanh toán và vận chuyển.
+- Xây dựng **tích hợp Shopify API trên môi trường production**: đồng bộ sản phẩm, khách hàng và đơn hàng giữa Shopify và hệ thống nội bộ, dùng Admin REST API + webhook, xử lý rate limit và retry khi lỗi.
 - **Đào tạo, hướng dẫn thực tập sinh và học việc.**
 
 ### NTQ Solution — Backend Developer
@@ -76,6 +77,10 @@ Trợ lý cho lĩnh vực xuất nhập khẩu, trả lời hai nhóm câu hỏi
 
 Addon nội bộ kết nối timesheet Odoo với ClickUp. Nhân viên report time trong Odoo; module ánh xạ user Odoo sang member ClickUp, đẩy time entry qua ClickUp REST API và tự retry khi đồng bộ lỗi theo cron. Sử dụng Odoo ORM, view QWeb, rule phân quyền và logging có cấu trúc.
 
+### Shopify ↔ hệ thống nội bộ: đồng bộ sản phẩm, khách hàng, đơn hàng — *Node.js, Shopify Admin API, PostgreSQL*
+
+Tích hợp chạy thật trên production: nhận webhook từ Shopify khi có sản phẩm hoặc đơn hàng mới, chuẩn hoá dữ liệu rồi ghi vào hệ thống nội bộ; chiều ngược lại đẩy tồn kho và trạng thái đơn về Shopify. Có xử lý **rate limit** của Admin API, retry theo backoff và log đối soát để phát hiện lệch dữ liệu.
+
 ### giaoanxanh.com — *Strapi (Node.js), Nuxt.js, Docker*
 
 Website chia sẻ tài liệu cho giáo viên và học sinh. Nội dung quản lý bằng **Strapi** ở backend, hiển thị qua frontend **Nuxt.js**, kèm một **microservice chuyển DOCX sang PDF** để tài liệu, giáo án tải lên được xem trực tiếp trên trình duyệt thay vì phải tải về. Toàn bộ dịch vụ chạy bằng Docker.
@@ -92,11 +97,7 @@ Website chia sẻ tài liệu cho giáo viên và học sinh. Nội dung quản 
 - **n8n** — [#15437](https://github.com/n8n-io/n8n/pull/15437): bổ sung các filter còn thiếu (name, projectId, pinned data, limit, cursor) cho operation `Get Many` của node.
 - **Dify** — [#21582](https://github.com/langgenius/dify/pull/21582): API validate model provider trong core.
 - **Dify official plugins** — [#1186](https://github.com/langgenius/dify-official-plugins/pull/1186): viết plugin **Gemini text embeddings**.
-- **OmniRoute** — [#9272](https://github.com/cheaper-inference/OmniRoute/pull/9272): webhook wizard ở dashboard, hỗ trợ add/edit và không phải nhập lại secret.
-- **db-backup** — [#141](https://github.com/nfrastack/db-backup/pull/141): sửa xử lý kiểu dữ liệu khi restore PostgreSQL.
-- **libreoffice-convert** — [#64](https://github.com/elwerene/libreoffice-convert/pull/64): nhận diện binary LibreOffice khi cài bằng snap.
-- **Nuxt Google AdSense** — [#120](https://github.com/nuxt-modules/google-adsense/pull/120): hỗ trợ `publicRuntimeConfig` để deploy bằng container.
-- **Fatzebra PHP-Library** — [#30](https://github.com/fatzebra/PHP-Library/pull/30): sửa lỗi reference & currency rỗng trong `token_authorization`.
+- **Các fix khác đã merge** — OmniRoute (webhook wizard), db-backup (restore PostgreSQL), libreoffice-convert (binary snap), Nuxt Google AdSense (runtime config), Fatzebra PHP-Library (SDK thanh toán).
 
 ---
 
