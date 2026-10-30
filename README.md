@@ -17,6 +17,7 @@ Cửa Lò, Nghệ An, Việt Nam · +84 963 212 280 · [khoazero123@gmail.com](m
 | --- | --- | --- |
 | **Software Engineering**<br>Python · Node.js · AI Automation · CI/CD | [PDF](cv/software-engineering/CV_VoVanKhoa_Software_Engineering_VI.pdf) | [PDF](cv/software-engineering/CV_VoVanKhoa_Software_Engineering_EN.pdf) |
 | **Python & AI**<br>Python · LLM · RAG · AI Agents | [PDF](cv/python-ai/CV_VoVanKhoa_Python_AI_VI.pdf) | [PDF](cv/python-ai/CV_VoVanKhoa_Python_AI_EN.pdf) |
+| **Node.js**<br>NestJS · TypeScript · API & Real-time | [PDF](cv/nodejs/CV_VoVanKhoa_NodeJS_VI.pdf) | [PDF](cv/nodejs/CV_VoVanKhoa_NodeJS_EN.pdf) |
 | **Senior PHP Developer**<br>Laravel · E-commerce · API | [PDF](cv/senior-php/CV_VoVanKhoa_Senior_PHP_VI.pdf) | [PDF](cv/senior-php/CV_VoVanKhoa_Senior_PHP_EN.pdf) |
 | **IT Support**<br>Infrastructure · Networking · Servers | [PDF](cv/it-support/CV_VoVanKhoa_IT_Support_VI.pdf) | [PDF](cv/it-support/CV_VoVanKhoa_IT_Support_EN.pdf) |
 
@@ -39,6 +40,7 @@ Cửa Lò, Nghệ An, Việt Nam · +84 963 212 280 · [khoazero123@gmail.com](m
 | --- | --- | --- |
 | **Software Engineering**<br>Python · Node.js · AI Automation · CI/CD | [PDF](cv/software-engineering/CV_VoVanKhoa_Software_Engineering_VI.pdf) | [PDF](cv/software-engineering/CV_VoVanKhoa_Software_Engineering_EN.pdf) |
 | **Python & AI**<br>Python · LLM · RAG · AI Agent | [PDF](cv/python-ai/CV_VoVanKhoa_Python_AI_VI.pdf) | [PDF](cv/python-ai/CV_VoVanKhoa_Python_AI_EN.pdf) |
+| **Node.js**<br>NestJS · TypeScript · API & Real-time | [PDF](cv/nodejs/CV_VoVanKhoa_NodeJS_VI.pdf) | [PDF](cv/nodejs/CV_VoVanKhoa_NodeJS_EN.pdf) |
 | **Senior PHP Developer**<br>Laravel · Thương mại điện tử · API | [PDF](cv/senior-php/CV_VoVanKhoa_Senior_PHP_VI.pdf) | [PDF](cv/senior-php/CV_VoVanKhoa_Senior_PHP_EN.pdf) |
 | **Nhân viên IT**<br>Hạ tầng · Networking · Server | [PDF](cv/it-support/CV_VoVanKhoa_IT_Support_VI.pdf) | [PDF](cv/it-support/CV_VoVanKhoa_IT_Support_EN.pdf) |
 
